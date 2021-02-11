@@ -875,18 +875,18 @@ Czechia,CZE,2011,4.272140026
 Czechia,CZE,2012,4.250860214
 Czechia,CZE,2013,4.090889931
 Czechia,CZE,2014,3.994620085
-Democratic Republic of Congo,COD,1980,2.267309904
-Democratic Republic of Congo,COD,1981,2.535049915
-Democratic Republic of Congo,COD,1982,2.799819946
-Democratic Republic of Congo,COD,1983,1.29945004
-Democratic Republic of Congo,COD,1984,0.704140007
-Democratic Republic of Congo,COD,1985,0.825699985
-Democratic Republic of Congo,COD,1986,0.722500026
-Democratic Republic of Congo,COD,1987,0.861199975
-Democratic Republic of Congo,COD,1988,0.814840019
-Democratic Republic of Congo,COD,2010,1.60244
-Democratic Republic of Congo,COD,2013,2.244750023
-Democratic Republic of Congo,COD,2015,2.290960073
+Congo,COD,1980,2.267309904
+Congo,COD,1981,2.535049915
+Congo,COD,1982,2.799819946
+Congo,COD,1983,1.29945004
+Congo,COD,1984,0.704140007
+Congo,COD,1985,0.825699985
+Congo,COD,1986,0.722500026
+Congo,COD,1987,0.861199975
+Congo,COD,1988,0.814840019
+Congo,COD,2010,1.60244
+Congo,COD,2013,2.244750023
+Congo,COD,2015,2.290960073
 Denmark,DNK,1970,5.955520153
 Denmark,DNK,1971,6.39357996
 Denmark,DNK,1972,6.481299877
@@ -2186,9 +2186,9 @@ Mexico,MEX,2011,5.14620018
 Mexico,MEX,2012,5.165430069
 Mexico,MEX,2013,4.742420197
 Mexico,MEX,2014,5.325860023
-Micronesia (country),FSM,1999,6.409770012
-Micronesia (country),FSM,2000,6.708179951
-Micronesia (country),FSM,2015,12.45950031
+Micronesia,FSM,1999,6.409770012
+Micronesia,FSM,2000,6.708179951
+Micronesia,FSM,2015,12.45950031
 Moldova,MDA,1996,9.89659977
 Moldova,MDA,1999,4.662549973
 Moldova,MDA,2000,4.486390114
@@ -2422,45 +2422,6 @@ Niger,NER,2014,6.72770977
 Niger,NER,2015,6.017320156
 Nigeria,NGA,1974,3.210170031
 Nigeria,NGA,1975,3.063689947
-North America,,1971,7.710189819
-North America,,1972,7.615409851
-North America,,1973,7.037499905
-North America,,1974,6.689630032
-North America,,1975,6.442949772
-North America,,1976,6.720990181
-North America,,1977,6.733530045
-North America,,1978,7.097670078
-North America,,1979,6.714749813
-North America,,1980,6.484670162
-North America,,1981,6.43061018
-North America,,1982,6.519139767
-North America,,1983,6.880430222
-North America,,1984,6.644040108
-North America,,1985,6.212870121
-North America,,1986,6.04418993
-North America,,1987,6.32446003
-North America,,1988,6.176149845
-North America,,1989,6.098320007
-North America,,1990,5.991990089
-North America,,1991,6.884300232
-North America,,1992,6.770939827
-North America,,1993,7.704259872
-North America,,1994,6.680019855
-North America,,1995,6.324450016
-North America,,1998,5.51196003
-North America,,1999,5.549940109
-North America,,2000,5.442009926
-North America,,2001,4.969580173
-North America,,2002,5.01072979
-North America,,2005,4.782149792
-North America,,2007,4.780360222
-North America,,2008,4.638259888
-North America,,2009,4.852640152
-North America,,2010,5.39496994
-North America,,2011,5.249169827
-North America,,2012,5.194859982
-North America,,2013,4.943789959
-North America,,2014,4.989480019
 North Macedonia,MKD,1992,4.979109764
 North Macedonia,MKD,1993,4.870729923
 North Macedonia,MKD,1994,4.760970116
@@ -3225,31 +3186,31 @@ Switzerland,CHE,2011,4.969860077
 Switzerland,CHE,2012,5.033370018
 Switzerland,CHE,2013,5.040480137
 Switzerland,CHE,2014,5.051229954
-Syrian Arab Republic,,1972,3.58355999
-Syrian Arab Republic,,1973,3.689909935
-Syrian Arab Republic,,1975,3.934509993
-Syrian Arab Republic,,1976,5.831459999
-Syrian Arab Republic,,1977,5.714419842
-Syrian Arab Republic,,1978,5.514259815
-Syrian Arab Republic,,1979,4.966169834
-Syrian Arab Republic,,1980,4.575530052
-Syrian Arab Republic,,1981,5.383930206
-Syrian Arab Republic,,1982,5.897620201
-Syrian Arab Republic,,1984,6.133890152
-Syrian Arab Republic,,1985,6.070049763
-Syrian Arab Republic,,1986,5.62293005
-Syrian Arab Republic,,1987,4.561840057
-Syrian Arab Republic,,1988,3.615859985
-Syrian Arab Republic,,1989,4.03414011
-Syrian Arab Republic,,1996,3.69904995
-Syrian Arab Republic,,2001,4.360489845
-Syrian Arab Republic,,2002,5.04693985
-Syrian Arab Republic,,2003,6.480840206
-Syrian Arab Republic,,2004,5.371479988
-Syrian Arab Republic,,2006,5.346000195
-Syrian Arab Republic,,2007,4.871970177
-Syrian Arab Republic,,2008,4.59525013
-Syrian Arab Republic,,2009,5.130139828
+Syria,,1972,3.58355999
+Syria,,1973,3.689909935
+Syria,,1975,3.934509993
+Syria,,1976,5.831459999
+Syria,,1977,5.714419842
+Syria,,1978,5.514259815
+Syria,,1979,4.966169834
+Syria,,1980,4.575530052
+Syria,,1981,5.383930206
+Syria,,1982,5.897620201
+Syria,,1984,6.133890152
+Syria,,1985,6.070049763
+Syria,,1986,5.62293005
+Syria,,1987,4.561840057
+Syria,,1988,3.615859985
+Syria,,1989,4.03414011
+Syria,,1996,3.69904995
+Syria,,2001,4.360489845
+Syria,,2002,5.04693985
+Syria,,2003,6.480840206
+Syria,,2004,5.371479988
+Syria,,2006,5.346000195
+Syria,,2007,4.871970177
+Syria,,2008,4.59525013
+Syria,,2009,5.130139828
 Tajikistan,TJK,1993,8.18558979
 Tajikistan,TJK,1995,2.065979958
 Tajikistan,TJK,1996,2.042979956
@@ -3502,11 +3463,11 @@ United Kingdom,GBR,2011,5.67332983
 United Kingdom,GBR,2013,5.618710041
 United Kingdom,GBR,2014,5.693419933
 United Kingdom,GBR,2015,5.631480217
-United States,USA,2010,5.42001009
-United States,USA,2011,5.223899841
-United States,USA,2012,5.194859982
-United States,USA,2013,4.943789959
-United States,USA,2014,4.989480019
+United States of America,USA,2010,5.42001009
+United States of America,USA,2011,5.223899841
+United States of America,USA,2012,5.194859982
+United States of America,USA,2013,4.943789959
+United States of America,USA,2014,4.989480019
 Uruguay,URY,1979,1.987130046
 Uruguay,URY,1980,2.159509897
 Uruguay,URY,1984,2.373389959

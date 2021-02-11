@@ -23,12 +23,12 @@ Americas,Central America,Belize,UN-CTS/WPB-ICPR,2003,1074,399.2565056
 Africa,Western Africa,Benin,WPB-ICPR/UN-CTS,2003,,
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2003,325,492.4242424
 Asia,Southern Asia,Bhutan,UN-CTS/WPB-ICPR,2003,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2003,6768,75.9937121
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2003,6768,75.9937121
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2003,,
 Africa,Southern Africa,Botswana,UN-CTS/WPB-ICPR,2003,5890,339.6770473
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2003,284989,156.751866
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2003,,
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2003,457,129.4617564
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2003,457,129.4617564
 Europe,Eastern Europe,Bulgaria,UN-CTS,2003,10066,128.9851358
 Africa,Western Africa,Burkina Faso,UN-CTS/WPB-ICPR,2003,,
 Africa,Eastern Africa,Burundi,UN-CTS/WPB-ICPR,2003,7913,114.5317702
@@ -41,21 +41,21 @@ Africa,Middle Africa,Central African Republic,WPB-ICPR,2003,,
 Africa,Middle Africa,Chad,WPB-ICPR,2003,,
 Americas,South America,Chile,UN-CTS,2003,38086,240.2902208
 Asia,Eastern Asia,China,WPB-ICPR/UN-CTS,2003,1546130,117.549251
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2003,13012,193.4869888
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2003,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2003,,
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2003,13012,193.4869888
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2003,,
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2003,,
 Americas,South America,Colombia,UN-CTS,2003,62277,150.122939
 Africa,Eastern Africa,Comoros,WPB-ICPR,2003,,
 Africa,Middle Africa,Congo,WPB-ICPR,2003,,
 Oceania,Polynesia,Cook Islands,WPB-ICPR,2003,,
 Americas,Central America,Costa Rica,UN-CTS,2003,,
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2003,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2003,,
 Europe,Southern Europe,Croatia,UN-CTS,2003,2805,63.90977444
 Americas,Caribbean,Cuba,WPB-ICPR,2003,55000,489.8031882
-Americas,Caribbean,Curaçao,WPB-ICPR,2003,,
+Americas,Caribbean,Curacao,WPB-ICPR,2003,,
 Asia,Western Asia,Cyprus,UN-CTS,2003,359,36.1167002
 Europe,Eastern Europe,Czechia,UN-CTS,2003,17277,168.7371814
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2003,,
+Africa,Middle Africa,Congo,WPB-ICPR,2003,,
 Europe,Northern Europe,Denmark,UN-CTS,2003,3641,67.58863932
 Africa,Eastern Africa,Djibouti,UN-CTS/WPB-ICPR,2003,,
 Americas,Caribbean,Dominica,UN-CTS/WPB-ICPR,2003,243,347.1428571
@@ -96,9 +96,9 @@ Europe,Eastern Europe,Hungary,UN-CTS,2003,16860,166.2557933
 Europe,Northern Europe,Iceland,UN-CTS,2003,109,37.84722222
 Asia,Southern Asia,India,UN-CTS/WPB-ICPR,2003,313635,28.21669007
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2003,84357,38.29031043
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2003,157267,230.8574197
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2003,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2003,,
+Asia,Southern Asia,Iran,WPB-ICPR,2003,157267,230.8574197
+Asia,Western Asia,Iraq,UN-CTS,2003,,
+Asia,Western Asia,Iraq,UN-CTS,2003,,
 Europe,Northern Europe,Ireland,UN-CTS,2003,3234,81.25628141
 Europe,Northern Europe,Isle of Man,WPB-ICPR,2003,,
 Asia,Western Asia,Israel,UN-CTS/WPB-ICPR,2003,12228,194.7754062
@@ -110,10 +110,10 @@ Asia,Western Asia,Jordan,UN-CTS/WPB-ICPR,2003,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2003,,
 Africa,Eastern Africa,Kenya,UN-CTS/WPB-ICPR,2003,,
 Oceania,Micronesia,Kiribati,WPB-ICPR,2003,,
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2003,1182,69.387942
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2003,1182,69.387942
 Asia,Western Asia,Kuwait,WPB-ICPR,2003,3700,171.1378353
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2003,16934,337.7343438
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2003,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2003,,
 Europe,Northern Europe,Latvia,UN-CTS,2003,8305,360.1474415
 Asia,Western Asia,Lebanon,UN-CTS/WPB-ICPR,2003,6382,145.4421149
 Africa,Southern Africa,Lesotho,UN-CTS/WPB-ICPR,2003,,
@@ -134,7 +134,7 @@ Africa,Western Africa,Mauritania,WPB-ICPR,2003,1185,41.47707385
 Africa,Eastern Africa,Mauritius,UN-CTS/NSO,2003,2494,206.2861869
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2003,163,97.60479042
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2003,185606,180.0584007
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2003,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2003,,
 Europe,Western Europe,Monaco,UN-CTS/WPB-ICPR,2003,28,84.84848485
 Asia,Eastern Asia,Mongolia,UN-CTS,2003,7665,310.4495747
 Europe,Southern Europe,Montenegro,UN-CTS,2003,741,120.6840391
@@ -165,11 +165,11 @@ Europe,Eastern Europe,Poland,UN-CTS,2003,79281,206.2353676
 Europe,Southern Europe,Portugal,UN-CTS,2003,13835,132.6462128
 Americas,Caribbean,Puerto Rico,UN-CTS/NSO,2003,,
 Asia,Western Asia,Qatar,UN-CTS/WPB-ICPR,2003,569,83.43108504
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2003,57336,118.8040032
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2003,,
-Africa,Eastern Africa,Réunion,WPB-ICPR,2003,1071,138.9105058
+Asia,Eastern Asia,South Korea,UN-CTS,2003,57336,118.8040032
+Europe,Eastern Europe,Moldova,UN-CTS,2003,,
+Africa,Eastern Africa,Reunion,WPB-ICPR,2003,1071,138.9105058
 Europe,Eastern Europe,Romania,UN-CTS,2003,42815,197.1224678
-Europe,Eastern Europe,Russian Federation,UN-CTS,2003,,
+Europe,Eastern Europe,Russia,UN-CTS,2003,,
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2003,,
 Americas,Caribbean,Saint Kitts and Nevis,UN-CTS/WPB-ICPR,2003,195,423.9130435
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2003,460,285.7142857
@@ -183,7 +183,7 @@ Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2003,7487,98.66200771
 Africa,Eastern Africa,Seychelles,UN-CTS/WPB-ICPR,2003,172,200
 Africa,Western Africa,Sierra Leone,WPB-ICPR/UN-CTS,2003,,
 Asia,South-eastern Asia,Singapore,UN-CTS,2003,17375,420.8040688
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2003,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2003,,
 Europe,Eastern Europe,Slovakia,UN-CTS,2003,8873,164.3148148
 Europe,Southern Europe,Slovenia,UN-CTS,2003,1070,53.82293763
 Oceania,Melanesia,Solomon Islands,WPB-ICPR,2003,,
@@ -191,12 +191,12 @@ Africa,Southern Africa,South Africa,WPB-ICPR,2003,180952,387.3199341
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2003,,
 Europe,Southern Europe,Spain,UN-CTS,2003,56096,131.6931167
 Asia,Southern Asia,Sri Lanka,UN-CTS/WPB-ICPR,2003,,
-Asia,Western Asia,State of Palestine,UN-CTS,2003,,
+Asia,Western Asia,Palestine,UN-CTS,2003,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2003,12000,40.73181494
 Americas,South America,Suriname,WPB-ICPR,2003,,
 Europe,Northern Europe,Sweden,UN-CTS,2003,6755,75.46642833
 Europe,Western Europe,Switzerland,UN-CTS,2003,4842,66.62080352
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2003,11829,67.92420327
+Asia,Western Asia,Syria,UN-CTS,2003,11829,67.92420327
 Asia,Central Asia,Tajikistan,WPB-ICPR,2003,10000,152.8584531
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2003,,
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2003,320,33.79091869
@@ -210,17 +210,17 @@ Oceania,Polynesia,Tuvalu,WPB-ICPR,2003,,
 Africa,Eastern Africa,Uganda,UN-CTS,2003,17952,69.09664755
 Europe,Eastern Europe,Ukraine,UN-CTS,2003,191241,401.9187928
 Asia,Western Asia,United Arab Emirates,UN-CTS,2003,,
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2003,73657,139.3350139
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2003,,
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2003,6606,130.3344185
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2003,,
+Europe,Northern Europe,United Kingdom,UN-CTS,2003,73657,139.3350139
+Europe,Northern Europe,United Kingdom,UN-CTS,2003,,
+Europe,Northern Europe,United Kingdom,UN-CTS,2003,6606,130.3344185
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2003,,
 Americas,Northern America,United States of America,UN-CTS,2003,2153000,742.8851409
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2003,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2003,,
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2003,6523,196.2394705
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2003,48000,186.4150064
 Oceania,Melanesia,Vanuatu,WPB-ICPR,2003,93,46.73366834
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2003,,
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2003,,
+Americas,South America,Venezuela,WPB-ICPR,2003,,
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2003,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2003,16252,85.60442455
 Africa,Eastern Africa,Zambia,WPB-ICPR,2003,13200,117.2603713
 Africa,Eastern Africa,Zimbabwe,UN-CTS/WPB-ICPR,2003,21125,176.3061259
@@ -248,12 +248,12 @@ Americas,Central America,Belize,UN-CTS/WPB-ICPR,2004,1149,414.801444
 Africa,Western Africa,Benin,WPB-ICPR/UN-CTS,2004,,
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2004,364,551.5151515
 Asia,Southern Asia,Bhutan,UN-CTS/WPB-ICPR,2004,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2004,6495,71.61759841
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2004,6495,71.61759841
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2004,2405,63.89479277
 Africa,Southern Africa,Botswana,UN-CTS/WPB-ICPR,2004,10911,617.8369196
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2004,336358,182.7973001
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2004,,
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2004,443,123.3983287
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2004,443,123.3983287
 Europe,Eastern Europe,Bulgaria,UN-CTS,2004,10871,140.3615236
 Africa,Western Africa,Burkina Faso,UN-CTS/WPB-ICPR,2004,2799,21.47954877
 Africa,Eastern Africa,Burundi,UN-CTS/WPB-ICPR,2004,7526,105.5243971
@@ -266,21 +266,21 @@ Africa,Middle Africa,Central African Republic,WPB-ICPR,2004,,
 Africa,Middle Africa,Chad,WPB-ICPR,2004,,
 Americas,South America,Chile,UN-CTS,2004,38064,237.6771776
 Asia,Eastern Asia,China,WPB-ICPR/UN-CTS,2004,1562742,118.1134999
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2004,12558,186.1823573
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2004,867,183.6864407
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2004,56786,251.5994683
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2004,12558,186.1823573
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2004,867,183.6864407
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2004,56786,251.5994683
 Americas,South America,Colombia,UN-CTS,2004,68020,161.6598536
 Africa,Eastern Africa,Comoros,WPB-ICPR,2004,,
 Africa,Middle Africa,Congo,WPB-ICPR,2004,,
 Oceania,Polynesia,Cook Islands,WPB-ICPR,2004,,
 Americas,Central America,Costa Rica,UN-CTS,2004,9056,214.3431953
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2004,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2004,,
 Europe,Southern Europe,Croatia,UN-CTS,2004,3029,69.09215329
 Americas,Caribbean,Cuba,WPB-ICPR,2004,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2004,,
+Americas,Caribbean,Curacao,WPB-ICPR,2004,,
 Asia,Western Asia,Cyprus,UN-CTS,2004,454,44.95049505
 Europe,Eastern Europe,Czechia,UN-CTS,2004,18343,179.1483543
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2004,30000,56.53017769
+Africa,Middle Africa,Congo,WPB-ICPR,2004,30000,56.53017769
 Europe,Northern Europe,Denmark,UN-CTS,2004,3767,69.72052563
 Africa,Eastern Africa,Djibouti,UN-CTS/WPB-ICPR,2004,,
 Americas,Caribbean,Dominica,UN-CTS/WPB-ICPR,2004,290,414.2857143
@@ -321,9 +321,9 @@ Europe,Eastern Europe,Hungary,UN-CTS,2004,16546,163.5950168
 Europe,Northern Europe,Iceland,UN-CTS,2004,115,39.51890034
 Asia,Southern Asia,India,UN-CTS/WPB-ICPR,2004,331391,29.33642463
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2004,87185,39.04633519
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2004,,
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2004,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2004,,
+Asia,Southern Asia,Iran,WPB-ICPR,2004,,
+Asia,Western Asia,Iraq,UN-CTS,2004,,
+Asia,Western Asia,Iraq,UN-CTS,2004,,
 Europe,Northern Europe,Ireland,UN-CTS,2004,3162,77.92015771
 Europe,Northern Europe,Isle of Man,WPB-ICPR,2004,51,63.75
 Asia,Western Asia,Israel,UN-CTS/WPB-ICPR,2004,13909,217.4300453
@@ -335,10 +335,10 @@ Asia,Western Asia,Jordan,UN-CTS/WPB-ICPR,2004,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2004,,
 Africa,Eastern Africa,Kenya,UN-CTS/WPB-ICPR,2004,55000,154.3426407
 Oceania,Micronesia,Kiribati,WPB-ICPR,2004,81,90
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2004,1189,69.75153436
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2004,1189,69.75153436
 Asia,Western Asia,Kuwait,WPB-ICPR,2004,,
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2004,16620,329.8273467
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2004,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2004,,
 Europe,Northern Europe,Latvia,UN-CTS,2004,8231,361.1671786
 Asia,Western Asia,Lebanon,UN-CTS/WPB-ICPR,2004,5990,131.1008974
 Africa,Southern Africa,Lesotho,UN-CTS/WPB-ICPR,2004,3173,158.1754736
@@ -359,7 +359,7 @@ Africa,Western Africa,Mauritania,WPB-ICPR,2004,,
 Africa,Eastern Africa,Mauritius,UN-CTS/NSO,2004,2358,193.9144737
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2004,,
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2004,196577,188.0849639
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2004,86,80.37383178
+Oceania,Micronesia,Micronesia,WPB-ICPR,2004,86,80.37383178
 Europe,Western Europe,Monaco,UN-CTS/WPB-ICPR,2004,34,100
 Asia,Eastern Asia,Mongolia,UN-CTS,2004,8098,324.4391026
 Europe,Southern Europe,Montenegro,UN-CTS,2004,799,129.9186992
@@ -390,11 +390,11 @@ Europe,Eastern Europe,Poland,UN-CTS,2004,80368,209.2916667
 Europe,Southern Europe,Portugal,UN-CTS,2004,13152,125.6040493
 Americas,Caribbean,Puerto Rico,UN-CTS/NSO,2004,14380,394.8380011
 Asia,Western Asia,Qatar,UN-CTS/WPB-ICPR,2004,564,74.90039841
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2004,54796,112.9977523
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2004,9377,224.9760077
-Africa,Eastern Africa,Réunion,WPB-ICPR,2004,,
+Asia,Eastern Asia,South Korea,UN-CTS,2004,54796,112.9977523
+Europe,Eastern Europe,Moldova,UN-CTS,2004,9377,224.9760077
+Africa,Eastern Africa,Reunion,WPB-ICPR,2004,,
 Europe,Eastern Europe,Romania,UN-CTS,2004,39031,180.8833071
-Europe,Eastern Europe,Russian Federation,UN-CTS,2004,763115,529.643048
+Europe,Eastern Europe,Russia,UN-CTS,2004,763115,529.643048
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2004,,
 Americas,Caribbean,Saint Kitts and Nevis,UN-CTS/WPB-ICPR,2004,,
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2004,,
@@ -408,7 +408,7 @@ Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2004,7654,101.5337782
 Africa,Eastern Africa,Seychelles,UN-CTS/WPB-ICPR,2004,147,168.9655172
 Africa,Western Africa,Sierra Leone,WPB-ICPR/UN-CTS,2004,1400,25.76370997
 Asia,South-eastern Asia,Singapore,UN-CTS,2004,15623,374.0244194
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2004,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2004,,
 Europe,Eastern Europe,Slovakia,UN-CTS,2004,9422,174.5137989
 Europe,Southern Europe,Slovenia,UN-CTS,2004,1085,54.52261307
 Oceania,Melanesia,Solomon Islands,WPB-ICPR,2004,275,59.91285403
@@ -416,12 +416,12 @@ Africa,Southern Africa,South Africa,WPB-ICPR,2004,186739,394.8638247
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2004,,
 Europe,Southern Europe,Spain,UN-CTS,2004,59375,137.0993812
 Asia,Southern Asia,Sri Lanka,UN-CTS/WPB-ICPR,2004,20661,106.5714138
-Asia,Western Asia,State of Palestine,UN-CTS,2004,,
+Asia,Western Asia,Palestine,UN-CTS,2004,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2004,,
 Americas,South America,Suriname,WPB-ICPR,2004,,
 Europe,Northern Europe,Sweden,UN-CTS,2004,7332,81.54821488
 Europe,Western Europe,Switzerland,UN-CTS,2004,5509,75.21845986
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2004,10599,59.45142473
+Asia,Western Asia,Syria,UN-CTS,2004,10599,59.45142473
 Asia,Central Asia,Tajikistan,WPB-ICPR,2004,,
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2004,167142,257.1613201
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2004,,
@@ -435,17 +435,17 @@ Oceania,Polynesia,Tuvalu,WPB-ICPR,2004,,
 Africa,Eastern Africa,Uganda,UN-CTS,2004,18549,69.15849521
 Europe,Eastern Europe,Ukraine,UN-CTS,2004,192047,406.7327446
 Asia,Western Asia,United Arab Emirates,UN-CTS,2004,,
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2004,74488,140.141423
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2004,,
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2004,6776,133.2730169
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2004,43244,115.6875334
+Europe,Northern Europe,United Kingdom,UN-CTS,2004,74488,140.141423
+Europe,Northern Europe,United Kingdom,UN-CTS,2004,,
+Europe,Northern Europe,United Kingdom,UN-CTS,2004,6776,133.2730169
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2004,43244,115.6875334
 Americas,Northern America,United States of America,UN-CTS,2004,2155900,737.4253904
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2004,576,533.3333333
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2004,576,533.3333333
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2004,6396,192.5925926
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2004,,
 Oceania,Melanesia,Vanuatu,WPB-ICPR,2004,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2004,19951,76.7434704
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2004,,
+Americas,South America,Venezuela,WPB-ICPR,2004,19951,76.7434704
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2004,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2004,7319,37.45649949
 Africa,Eastern Africa,Zambia,WPB-ICPR,2004,,
 Africa,Eastern Africa,Zimbabwe,UN-CTS/WPB-ICPR,2004,19888,165.4575707
@@ -473,12 +473,12 @@ Americas,Central America,Belize,UN-CTS/WPB-ICPR,2005,1380,485.915493
 Africa,Western Africa,Benin,WPB-ICPR/UN-CTS,2005,,
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2005,,
 Asia,Southern Asia,Bhutan,UN-CTS/WPB-ICPR,2005,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2005,7310,79.18110919
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2005,7310,79.18110919
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2005,,
 Africa,Southern Africa,Botswana,UN-CTS/WPB-ICPR,2005,9778,543.5241801
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2005,361402,194.1695724
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2005,105,456.5217391
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2005,492,134.7945205
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2005,492,134.7945205
 Europe,Eastern Europe,Bulgaria,UN-CTS,2005,11436,148.7706518
 Africa,Western Africa,Burkina Faso,UN-CTS/WPB-ICPR,2005,3315,24.69825659
 Africa,Eastern Africa,Burundi,UN-CTS/WPB-ICPR,2005,7167,97.31160896
@@ -491,21 +491,21 @@ Africa,Middle Africa,Central African Republic,WPB-ICPR,2005,1000,24.76473502
 Africa,Middle Africa,Chad,WPB-ICPR,2005,3416,33.83183124
 Americas,South America,Chile,UN-CTS,2005,38849,240.0605574
 Asia,Eastern Asia,China,WPB-ICPR/UN-CTS,2005,1558511,117.1129476
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2005,11530,170.310192
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2005,897,185.7142857
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2005,60122,264.7846384
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2005,11530,170.310192
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2005,897,185.7142857
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2005,60122,264.7846384
 Americas,South America,Colombia,UN-CTS,2005,66829,156.6990246
 Africa,Eastern Africa,Comoros,WPB-ICPR,2005,,
 Africa,Middle Africa,Congo,WPB-ICPR,2005,1550,42.78222468
 Oceania,Polynesia,Cook Islands,WPB-ICPR,2005,27,142.1052632
 Americas,Central America,Costa Rica,UN-CTS,2005,8818,205.7396174
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2005,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2005,,
 Europe,Southern Europe,Croatia,UN-CTS,2005,3485,79.60255825
 Americas,Caribbean,Cuba,WPB-ICPR,2005,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2005,,
+Americas,Caribbean,Curacao,WPB-ICPR,2005,,
 Asia,Western Asia,Cyprus,UN-CTS,2005,502,48.83268483
 Europe,Eastern Europe,Czechia,UN-CTS,2005,18937,184.6071359
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2005,,
+Africa,Middle Africa,Congo,WPB-ICPR,2005,,
 Europe,Northern Europe,Denmark,UN-CTS,2005,4041,74.52969384
 Africa,Eastern Africa,Djibouti,UN-CTS/WPB-ICPR,2005,,
 Americas,Caribbean,Dominica,UN-CTS/WPB-ICPR,2005,282,397.1830986
@@ -546,9 +546,9 @@ Europe,Eastern Europe,Hungary,UN-CTS,2005,15755,156.206623
 Europe,Northern Europe,Iceland,UN-CTS,2005,119,40.33898305
 Asia,Southern Asia,India,UN-CTS/WPB-ICPR,2005,358368,31.22733333
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2005,97691,43.17090093
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2005,134384,192.632092
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2005,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2005,,
+Asia,Southern Asia,Iran,WPB-ICPR,2005,134384,192.632092
+Asia,Western Asia,Iraq,UN-CTS,2005,,
+Asia,Western Asia,Iraq,UN-CTS,2005,,
 Europe,Northern Europe,Ireland,UN-CTS,2005,3022,72.97754166
 Europe,Northern Europe,Isle of Man,WPB-ICPR,2005,,
 Asia,Western Asia,Israel,UN-CTS/WPB-ICPR,2005,16055,245.9028948
@@ -560,10 +560,10 @@ Asia,Western Asia,Jordan,UN-CTS/WPB-ICPR,2005,6378,110.6139438
 Asia,Central Asia,Kazakhstan,UN-CTS,2005,52203,338.9144972
 Africa,Eastern Africa,Kenya,UN-CTS/WPB-ICPR,2005,50000,136.5187713
 Oceania,Micronesia,Kiribati,WPB-ICPR,2005,74,80.43478261
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2005,1199,70.29042432
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2005,1199,70.29042432
 Asia,Western Asia,Kuwait,WPB-ICPR,2005,3500,154.185022
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2005,15758,310.5024631
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2005,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2005,,
 Europe,Northern Europe,Latvia,UN-CTS,2005,7646,339.5204263
 Asia,Western Asia,Lebanon,UN-CTS/WPB-ICPR,2005,6921,147.2866567
 Africa,Southern Africa,Lesotho,UN-CTS/WPB-ICPR,2005,2712,135.8717435
@@ -584,7 +584,7 @@ Africa,Western Africa,Mauritania,WPB-ICPR,2005,815,26.9510582
 Africa,Eastern Africa,Mauritius,UN-CTS/NSO,2005,2473,202.3731588
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2005,107,60.11235955
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2005,208272,196.4737512
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2005,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2005,,
 Europe,Western Europe,Monaco,UN-CTS/WPB-ICPR,2005,31,91.17647059
 Asia,Eastern Asia,Mongolia,UN-CTS,2005,8906,352.5732383
 Europe,Southern Europe,Montenegro,UN-CTS,2005,894,145.1298701
@@ -615,11 +615,11 @@ Europe,Eastern Europe,Poland,UN-CTS,2005,84875,221.2072246
 Europe,Southern Europe,Portugal,UN-CTS,2005,12889,122.6589265
 Americas,Caribbean,Puerto Rico,UN-CTS/NSO,2005,14263,392.7037445
 Asia,Western Asia,Qatar,UN-CTS/WPB-ICPR,2005,522,60.34682081
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2005,47311,97.14584916
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2005,8876,213.4166867
-Africa,Eastern Africa,Réunion,WPB-ICPR,2005,1040,131.3131313
+Asia,Eastern Asia,South Korea,UN-CTS,2005,47311,97.14584916
+Europe,Eastern Europe,Moldova,UN-CTS,2005,8876,213.4166867
+Africa,Eastern Africa,Reunion,WPB-ICPR,2005,1040,131.3131313
 Europe,Eastern Europe,Romania,UN-CTS,2005,36700,171.3592006
-Europe,Eastern Europe,Russian Federation,UN-CTS,2005,823444,573.1416003
+Europe,Eastern Europe,Russia,UN-CTS,2005,823444,573.1416003
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2005,,
 Americas,Caribbean,Saint Kitts and Nevis,UN-CTS/WPB-ICPR,2005,,
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2005,503,308.5889571
@@ -633,7 +633,7 @@ Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2005,8078,107.8761041
 Africa,Eastern Africa,Seychelles,UN-CTS/WPB-ICPR,2005,162,182.0224719
 Africa,Western Africa,Sierra Leone,WPB-ICPR/UN-CTS,2005,1740,30.81827843
 Asia,South-eastern Asia,Singapore,UN-CTS,2005,14453,338.7951242
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2005,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2005,,
 Europe,Eastern Europe,Slovakia,UN-CTS,2005,8897,164.7897759
 Europe,Southern Europe,Slovenia,UN-CTS,2005,1132,56.74185464
 Oceania,Melanesia,Solomon Islands,WPB-ICPR,2005,295,62.76595745
@@ -641,12 +641,12 @@ Africa,Southern Africa,South Africa,WPB-ICPR,2005,157402,328.7358242
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2005,,
 Europe,Southern Europe,Spain,UN-CTS,2005,61054,138.6991981
 Asia,Southern Asia,Sri Lanka,UN-CTS/WPB-ICPR,2005,22114,113.1440266
-Asia,Western Asia,State of Palestine,UN-CTS,2005,,
+Asia,Western Asia,Palestine,UN-CTS,2005,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2005,,
 Americas,South America,Suriname,WPB-ICPR,2005,820,164.3286573
 Europe,Northern Europe,Sweden,UN-CTS,2005,7377,81.61301029
 Europe,Western Europe,Switzerland,UN-CTS,2005,5723,77.47394071
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2005,,
+Asia,Western Asia,Syria,UN-CTS,2005,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2005,,
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2005,162293,248.0937385
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2005,,
@@ -660,17 +660,17 @@ Oceania,Polynesia,Tuvalu,WPB-ICPR,2005,7,70
 Africa,Eastern Africa,Uganda,UN-CTS,2005,19048,68.80260069
 Europe,Eastern Europe,Ukraine,UN-CTS,2005,170923,364.5113135
 Asia,Western Asia,United Arab Emirates,UN-CTS,2005,9936,216.564952
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2005,75121,140.2156212
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2005,1330,76.97948699
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2005,6856,134.1630465
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2005,46416,120.7178153
+Europe,Northern Europe,United Kingdom,UN-CTS,2005,75121,140.2156212
+Europe,Northern Europe,United Kingdom,UN-CTS,2005,1330,76.97948699
+Europe,Northern Europe,United Kingdom,UN-CTS,2005,6856,134.1630465
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2005,46416,120.7178153
 Americas,Northern America,United States of America,UN-CTS,2005,2200400,745.9134762
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2005,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2005,,
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2005,6211,186.9656833
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2005,,
 Oceania,Melanesia,Vanuatu,WPB-ICPR,2005,138,66.02870813
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2005,,
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2005,88414,105.4644352
+Americas,South America,Venezuela,WPB-ICPR,2005,,
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2005,88414,105.4644352
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2005,5994,29.81051375
 Africa,Eastern Africa,Zambia,WPB-ICPR,2005,14347,121.0104588
 Africa,Eastern Africa,Zimbabwe,UN-CTS/WPB-ICPR,2005,17997,149.0187961
@@ -698,12 +698,12 @@ Americas,Central America,Belize,UN-CTS/WPB-ICPR,2006,1338,459.7938144
 Africa,Western Africa,Benin,WPB-ICPR/UN-CTS,2006,5834,70.99914811
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2006,305,462.1212121
 Asia,Southern Asia,Bhutan,UN-CTS/WPB-ICPR,2006,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2006,7358,78.31825439
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2006,7358,78.31825439
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2006,2493,66.21513944
 Africa,Southern Africa,Botswana,UN-CTS/WPB-ICPR,2006,9788,533.1154684
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2006,401236,213.233989
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2006,,
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2006,522,141.0810811
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2006,522,141.0810811
 Europe,Eastern Europe,Bulgaria,UN-CTS,2006,11058,144.9089241
 Africa,Western Africa,Burkina Faso,UN-CTS/WPB-ICPR,2006,3108,22.47451009
 Africa,Eastern Africa,Burundi,UN-CTS/WPB-ICPR,2006,8277,108.7933754
@@ -716,21 +716,21 @@ Africa,Middle Africa,Central African Republic,WPB-ICPR,2006,,
 Africa,Middle Africa,Chad,WPB-ICPR,2006,,
 Americas,South America,Chile,UN-CTS,2006,42532,260.055029
 Asia,Eastern Asia,China,WPB-ICPR/UN-CTS,2006,1565711,116.983
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2006,11640,171.1261394
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2006,859,173.8866397
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2006,63226,277.0154224
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2006,11640,171.1261394
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2006,859,173.8866397
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2006,63226,277.0154224
 Americas,South America,Colombia,UN-CTS,2006,60021,138.9342839
 Africa,Eastern Africa,Comoros,WPB-ICPR,2006,,
 Africa,Middle Africa,Congo,WPB-ICPR,2006,,
 Oceania,Polynesia,Cook Islands,WPB-ICPR,2006,,
 Americas,Central America,Costa Rica,UN-CTS,2006,7712,177.4913694
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2006,13385,71.3676353
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2006,13385,71.3676353
 Europe,Southern Europe,Croatia,UN-CTS,2006,3833,87.69160375
 Americas,Caribbean,Cuba,WPB-ICPR,2006,60000,532.8123612
-Americas,Caribbean,Curaçao,WPB-ICPR,2006,578,434.5864662
+Americas,Caribbean,Curacao,WPB-ICPR,2006,578,434.5864662
 Asia,Western Asia,Cyprus,UN-CTS,2006,578,55.2581262
 Europe,Eastern Europe,Czechia,UN-CTS,2006,18578,180.3864453
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2006,,
+Africa,Middle Africa,Congo,WPB-ICPR,2006,,
 Europe,Northern Europe,Denmark,UN-CTS,2006,3932,72.22630419
 Africa,Eastern Africa,Djibouti,UN-CTS/WPB-ICPR,2006,,
 Americas,Caribbean,Dominica,UN-CTS/WPB-ICPR,2006,301,423.943662
@@ -771,9 +771,9 @@ Europe,Eastern Europe,Hungary,UN-CTS,2006,14822,147.3945903
 Europe,Northern Europe,Iceland,UN-CTS,2006,119,39.66666667
 Asia,Southern Asia,India,UN-CTS/WPB-ICPR,2006,373271,32.02706854
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2006,116688,50.88479753
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2006,,
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2006,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2006,,
+Asia,Southern Asia,Iran,WPB-ICPR,2006,,
+Asia,Western Asia,Iraq,UN-CTS,2006,,
+Asia,Western Asia,Iraq,UN-CTS,2006,,
 Europe,Northern Europe,Ireland,UN-CTS,2006,3080,72.79602931
 Europe,Northern Europe,Isle of Man,WPB-ICPR,2006,76,93.82716049
 Asia,Western Asia,Israel,UN-CTS/WPB-ICPR,2006,20617,308.5915282
@@ -785,10 +785,10 @@ Asia,Western Asia,Jordan,UN-CTS/WPB-ICPR,2006,6166,102.9038718
 Asia,Central Asia,Kazakhstan,UN-CTS,2006,51544,331.4513536
 Africa,Eastern Africa,Kenya,UN-CTS/WPB-ICPR,2006,,
 Oceania,Micronesia,Kiribati,WPB-ICPR,2006,84,89.36170213
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2006,1252,72.81033953
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2006,1252,72.81033953
 Asia,Western Asia,Kuwait,WPB-ICPR,2006,,
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2006,15127,295.2185792
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2006,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2006,,
 Europe,Northern Europe,Latvia,UN-CTS,2006,6965,313.0337079
 Asia,Western Asia,Lebanon,UN-CTS/WPB-ICPR,2006,6101,128.1722689
 Africa,Southern Africa,Lesotho,UN-CTS/WPB-ICPR,2006,2508,126.0301508
@@ -809,7 +809,7 @@ Africa,Western Africa,Mauritania,WPB-ICPR,2006,,
 Africa,Eastern Africa,Mauritius,UN-CTS/NSO,2006,2269,184.771987
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2006,,
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2006,211308,196.4559316
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2006,103,98.0952381
+Oceania,Micronesia,Micronesia,WPB-ICPR,2006,103,98.0952381
 Europe,Western Europe,Monaco,UN-CTS/WPB-ICPR,2006,37,108.8235294
 Asia,Eastern Asia,Mongolia,UN-CTS,2006,6740,263.3841344
 Europe,Southern Europe,Montenegro,UN-CTS,2006,851,137.7022654
@@ -840,11 +840,11 @@ Europe,Eastern Europe,Poland,UN-CTS,2006,90529,236.0353549
 Europe,Southern Europe,Portugal,UN-CTS,2006,12636,119.8520345
 Americas,Caribbean,Puerto Rico,UN-CTS/NSO,2006,13788,380.4635762
 Asia,Western Asia,Qatar,UN-CTS/WPB-ICPR,2006,805,78.69012708
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2006,45651,93.39402619
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2006,9042,218.089725
-Africa,Eastern Africa,Réunion,WPB-ICPR,2006,,
+Asia,Eastern Asia,South Korea,UN-CTS,2006,45651,93.39402619
+Europe,Eastern Europe,Moldova,UN-CTS,2006,9042,218.089725
+Africa,Eastern Africa,Reunion,WPB-ICPR,2006,,
 Europe,Eastern Europe,Romania,UN-CTS,2006,34038,160.2995196
-Europe,Eastern Europe,Russian Federation,UN-CTS,2006,871693,607.8624576
+Europe,Eastern Europe,Russia,UN-CTS,2006,871693,607.8624576
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2006,,
 Americas,Caribbean,Saint Kitts and Nevis,UN-CTS/WPB-ICPR,2006,237,504.2553191
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2006,,
@@ -858,7 +858,7 @@ Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2006,7893,106.2820745
 Africa,Eastern Africa,Seychelles,UN-CTS/WPB-ICPR,2006,174,193.3333333
 Africa,Western Africa,Sierra Leone,WPB-ICPR/UN-CTS,2006,1610,27.6205181
 Asia,South-eastern Asia,Singapore,UN-CTS,2006,12761,289.8909587
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2006,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2006,,
 Europe,Eastern Europe,Slovakia,UN-CTS,2006,8249,152.7875533
 Europe,Southern Europe,Slovenia,UN-CTS,2006,1301,64.98501499
 Oceania,Melanesia,Solomon Islands,WPB-ICPR,2006,283,58.83575884
@@ -866,12 +866,12 @@ Africa,Southern Africa,South Africa,WPB-ICPR,2006,,
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2006,,
 Europe,Southern Europe,Spain,UN-CTS,2006,64021,143.1308547
 Asia,Southern Asia,Sri Lanka,UN-CTS/WPB-ICPR,2006,22867,116.0997157
-Asia,Western Asia,State of Palestine,UN-CTS,2006,,
+Asia,Western Asia,Palestine,UN-CTS,2006,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2006,,
 Americas,South America,Suriname,WPB-ICPR,2006,,
 Europe,Northern Europe,Sweden,UN-CTS,2006,7397,81.32145998
 Europe,Western Europe,Switzerland,UN-CTS,2006,5567,74.64467686
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2006,,
+Asia,Western Asia,Syria,UN-CTS,2006,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2006,10804,156.0595118
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2006,151586,230.3283546
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2006,,
@@ -885,17 +885,17 @@ Oceania,Polynesia,Tuvalu,WPB-ICPR,2006,,
 Africa,Eastern Africa,Uganda,UN-CTS,2006,19225,67.28850933
 Europe,Eastern Europe,Ukraine,UN-CTS,2006,160725,344.8516317
 Asia,Western Asia,United Arab Emirates,UN-CTS,2006,11193,211.1886792
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2006,76560,141.9069289
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2006,1512,86.74136444
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2006,7187,140.0128577
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2006,43911,111.029356
+Europe,Northern Europe,United Kingdom,UN-CTS,2006,76560,141.9069289
+Europe,Northern Europe,United Kingdom,UN-CTS,2006,1512,86.74136444
+Europe,Northern Europe,United Kingdom,UN-CTS,2006,7187,140.0128577
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2006,43911,111.029356
 Americas,Northern America,United States of America,UN-CTS,2006,2256600,757.8612233
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2006,586,547.6635514
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2006,586,547.6635514
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2006,6887,207.1278195
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2006,,
 Oceania,Melanesia,Vanuatu,WPB-ICPR,2006,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2006,19257,71.72067039
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2006,,
+Americas,South America,Venezuela,WPB-ICPR,2006,19257,71.72067039
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2006,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2006,5189,25.08217324
 Africa,Eastern Africa,Zambia,WPB-ICPR,2006,,
 Africa,Eastern Africa,Zimbabwe,UN-CTS/WPB-ICPR,2006,18081,148.7535993
@@ -923,12 +923,12 @@ Americas,Central America,Belize,UN-CTS/WPB-ICPR,2007,,
 Africa,Western Africa,Benin,WPB-ICPR/UN-CTS,2007,,
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2007,,
 Asia,Southern Asia,Bhutan,UN-CTS/WPB-ICPR,2007,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2007,7588,79.38899351
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2007,7588,79.38899351
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2007,,
 Africa,Southern Africa,Botswana,UN-CTS/WPB-ICPR,2007,8912,475.3066667
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2007,422590,222.2637143
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2007,,
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2007,486,129.6
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2007,486,129.6
 Europe,Eastern Europe,Bulgaria,UN-CTS,2007,10271,135.554969
 Africa,Western Africa,Burkina Faso,UN-CTS/WPB-ICPR,2007,4207,29.51866405
 Africa,Eastern Africa,Burundi,UN-CTS/WPB-ICPR,2007,8343,106.1180361
@@ -941,21 +941,21 @@ Africa,Middle Africa,Central African Republic,WPB-ICPR,2007,1233,29.37112911
 Africa,Middle Africa,Chad,WPB-ICPR,2007,,
 Americas,South America,Chile,UN-CTS,2007,48090,290.9255898
 Asia,Eastern Asia,China,WPB-ICPR/UN-CTS,2007,1566839,116.4075769
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2007,11220,164.0350877
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2007,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2007,,
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2007,11220,164.0350877
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2007,,
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2007,,
 Americas,South America,Colombia,UN-CTS,2007,63603,145.4181718
 Africa,Eastern Africa,Comoros,WPB-ICPR,2007,,
 Africa,Middle Africa,Congo,WPB-ICPR,2007,1642,42.36326109
 Oceania,Polynesia,Cook Islands,WPB-ICPR,2007,26,136.8421053
 Americas,Central America,Costa Rica,UN-CTS,2007,7500,170.261067
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2007,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2007,,
 Europe,Southern Europe,Croatia,UN-CTS,2007,4290,98.34938102
 Americas,Caribbean,Cuba,WPB-ICPR,2007,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2007,,
+Americas,Caribbean,Curacao,WPB-ICPR,2007,,
 Asia,Western Asia,Cyprus,UN-CTS,2007,547,51.40977444
 Europe,Eastern Europe,Czechia,UN-CTS,2007,18901,182.4773122
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2007,,
+Africa,Middle Africa,Congo,WPB-ICPR,2007,,
 Europe,Northern Europe,Denmark,UN-CTS,2007,3624,66.25228519
 Africa,Eastern Africa,Djibouti,UN-CTS/WPB-ICPR,2007,,
 Americas,Caribbean,Dominica,UN-CTS/WPB-ICPR,2007,254,357.7464789
@@ -996,9 +996,9 @@ Europe,Eastern Europe,Hungary,UN-CTS,2007,14353,143.1863528
 Europe,Northern Europe,Iceland,UN-CTS,2007,115,37.70491803
 Asia,Southern Asia,India,UN-CTS/WPB-ICPR,2007,376396,31.81145512
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2007,,
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2007,148843,208.6506112
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2007,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2007,,
+Asia,Southern Asia,Iran,WPB-ICPR,2007,148843,208.6506112
+Asia,Western Asia,Iraq,UN-CTS,2007,,
+Asia,Western Asia,Iraq,UN-CTS,2007,,
 Africa,Eastern Africa,Uganda,UN-CTS,2007,19247,65.27504578
 Africa,Northern Africa,Morocco,UN-CTS,2007,54660,175.3946862
 Africa,Eastern Africa,Uganda,UN-CTS,2008,28775,94.55507361
@@ -1140,158 +1140,158 @@ Americas,South America,Peru,UN-CTS,2018,90934,284.2664666
 Asia,Central Asia,Kazakhstan,UN-CTS,2007,,
 Asia,Eastern Asia,Japan,UN-CTS,2007,79809,62.11107133
 Asia,Eastern Asia,Mongolia,UN-CTS,2007,7920,305.3199692
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2007,45647,93.09064954
+Asia,Eastern Asia,South Korea,UN-CTS,2007,45647,93.09064954
 Asia,South-eastern Asia,Singapore,UN-CTS,2007,12410,271.0198733
-Asia,Western Asia,State of Palestine,UN-CTS,2007,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2007,,
+Asia,Western Asia,Palestine,UN-CTS,2007,,
+Asia,Western Asia,Syria,UN-CTS,2007,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2007,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2008,48270,304.3121927
 Asia,Eastern Asia,Japan,UN-CTS,2008,76881,59.8114191
 Asia,Eastern Asia,Mongolia,UN-CTS,2008,8158,309.9544073
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2008,47966,97.52755073
+Asia,Eastern Asia,South Korea,UN-CTS,2008,47966,97.52755073
 Asia,South-eastern Asia,Singapore,UN-CTS,2008,12500,261.7252931
 Asia,Western Asia,Armenia,UN-CTS,2008,3965,136.3480055
 Asia,Western Asia,Azerbaijan,UN-CTS,2008,20986,237.8825663
 Asia,Western Asia,Cyprus,UN-CTS,2008,652,60.25878004
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2008,16767,67.49584098
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2008,,
-Asia,Western Asia,State of Palestine,UN-CTS,2008,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2008,,
+Asia,Western Asia,Iraq,UN-CTS,2008,16767,67.49584098
+Asia,Western Asia,Iraq,UN-CTS,2008,,
+Asia,Western Asia,Palestine,UN-CTS,2008,,
+Asia,Western Asia,Syria,UN-CTS,2008,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2008,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2009,50495,314.7478651
 Asia,Eastern Asia,Japan,UN-CTS,2009,75250,58.53525728
 Asia,Eastern Asia,Mongolia,UN-CTS,2009,6532,244.2782349
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2009,48228,97.73238495
+Asia,Eastern Asia,South Korea,UN-CTS,2009,48228,97.73238495
 Asia,South-eastern Asia,Singapore,UN-CTS,2009,13428,270.3442722
 Asia,Western Asia,Armenia,UN-CTS,2009,4313,149.3421053
 Asia,Western Asia,Azerbaijan,UN-CTS,2009,20651,231.4096818
 Asia,Western Asia,Cyprus,UN-CTS,2009,578,52.64116576
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2009,20104,78.74903879
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2009,1804,40.61751679
-Asia,Western Asia,State of Palestine,UN-CTS,2009,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2009,,
+Asia,Western Asia,Iraq,UN-CTS,2009,20104,78.74903879
+Asia,Western Asia,Iraq,UN-CTS,2009,1804,40.61751679
+Asia,Western Asia,Palestine,UN-CTS,2009,,
+Asia,Western Asia,Syria,UN-CTS,2009,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2009,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2010,55140,339.2813192
 Asia,Eastern Asia,Japan,UN-CTS,2010,72975,56.77132766
 Asia,Eastern Asia,Mongolia,UN-CTS,2010,7421,272.8308824
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2010,45681,92.19916845
+Asia,Eastern Asia,South Korea,UN-CTS,2010,45681,92.19916845
 Asia,South-eastern Asia,Singapore,UN-CTS,2010,13604,265.1335022
 Asia,Western Asia,Armenia,UN-CTS,2010,5142,178.7278415
 Asia,Western Asia,Azerbaijan,UN-CTS,2010,21971,243.2573074
 Asia,Western Asia,Cyprus,UN-CTS,2010,636,57.14285714
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2010,24965,94.94663992
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2010,1853,40.50769194
-Asia,Western Asia,State of Palestine,UN-CTS,2010,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2010,,
+Asia,Western Asia,Iraq,UN-CTS,2010,24965,94.94663992
+Asia,Western Asia,Iraq,UN-CTS,2010,1853,40.50769194
+Asia,Western Asia,Palestine,UN-CTS,2010,,
+Asia,Western Asia,Syria,UN-CTS,2010,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2010,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2011,49401,299.5633982
 Asia,Eastern Asia,Japan,UN-CTS,2011,69876,54.3786333
 Asia,Eastern Asia,Mongolia,UN-CTS,2011,8011,289.2057762
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2011,45038,90.46318242
+Asia,Eastern Asia,South Korea,UN-CTS,2011,45038,90.46318242
 Asia,South-eastern Asia,Singapore,UN-CTS,2011,13164,250.0759878
 Asia,Western Asia,Armenia,UN-CTS,2011,4532,157.5251999
 Asia,Western Asia,Azerbaijan,UN-CTS,2011,20546,224.6446534
 Asia,Western Asia,Cyprus,UN-CTS,2011,622,55.28888889
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2011,26369,97.14061882
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2011,2296,48.61755775
-Asia,Western Asia,State of Palestine,UN-CTS,2011,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2011,,
+Asia,Western Asia,Iraq,UN-CTS,2011,26369,97.14061882
+Asia,Western Asia,Iraq,UN-CTS,2011,2296,48.61755775
+Asia,Western Asia,Palestine,UN-CTS,2011,,
+Asia,Western Asia,Syria,UN-CTS,2011,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2011,9824,109.8021683
 Asia,Central Asia,Kazakhstan,UN-CTS,2012,45335,270.6244031
 Asia,Eastern Asia,Japan,UN-CTS,2012,67008,52.17716315
 Asia,Eastern Asia,Mongolia,UN-CTS,2012,8145,288.3185841
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2012,46708,93.30217135
+Asia,Eastern Asia,South Korea,UN-CTS,2012,46708,93.30217135
 Asia,South-eastern Asia,Singapore,UN-CTS,2012,12975,241.6651145
 Asia,Western Asia,Armenia,UN-CTS,2012,4756,164.9098474
 Asia,Western Asia,Azerbaijan,UN-CTS,2012,20782,224.30653
 Asia,Western Asia,Cyprus,UN-CTS,2012,678,59.73568282
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2012,31187,111.0903789
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2012,1697,34.7455139
-Asia,Western Asia,State of Palestine,UN-CTS,2012,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2012,,
+Asia,Western Asia,Iraq,UN-CTS,2012,31187,111.0903789
+Asia,Western Asia,Iraq,UN-CTS,2012,1697,34.7455139
+Asia,Western Asia,Palestine,UN-CTS,2012,,
+Asia,Western Asia,Syria,UN-CTS,2012,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2012,9824,107.4600744
 Asia,Central Asia,Kazakhstan,UN-CTS,2013,42052,246.9869611
 Asia,Eastern Asia,Japan,UN-CTS,2013,62971,49.07570491
 Asia,Eastern Asia,Mongolia,UN-CTS,2013,8068,279.944483
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2013,48824,96.97691972
+Asia,Eastern Asia,South Korea,UN-CTS,2013,48824,96.97691972
 Asia,South-eastern Asia,Singapore,UN-CTS,2013,13334,244.4811148
 Asia,Western Asia,Armenia,UN-CTS,2013,3923,135.3692202
 Asia,Western Asia,Azerbaijan,UN-CTS,2013,20669,220.2344166
 Asia,Western Asia,Cyprus,UN-CTS,2013,553,48.33916084
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2013,30499,104.9774779
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2013,2599,51.41985688
-Asia,Western Asia,State of Palestine,UN-CTS,2013,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2013,,
+Asia,Western Asia,Iraq,UN-CTS,2013,30499,104.9774779
+Asia,Western Asia,Iraq,UN-CTS,2013,2599,51.41985688
+Asia,Western Asia,Palestine,UN-CTS,2013,,
+Asia,Western Asia,Syria,UN-CTS,2013,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2013,9959,108.2735377
 Asia,Central Asia,Kazakhstan,UN-CTS,2014,43220,249.7832746
 Asia,Eastern Asia,Japan,UN-CTS,2014,60486,47.19237881
 Asia,Eastern Asia,Mongolia,UN-CTS,2014,7690,261.5646259
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2014,51761,102.2782959
+Asia,Eastern Asia,South Korea,UN-CTS,2014,51761,102.2782959
 Asia,South-eastern Asia,Singapore,UN-CTS,2014,12794,231.5237061
 Asia,Western Asia,Armenia,UN-CTS,2014,3880,133.2417582
 Asia,Western Asia,Azerbaijan,UN-CTS,2014,22526,236.9661267
 Asia,Western Asia,Cyprus,UN-CTS,2014,532,46.18055556
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2014,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2014,,
-Asia,Western Asia,State of Palestine,UN-CTS,2014,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2014,,
+Asia,Western Asia,Iraq,UN-CTS,2014,,
+Asia,Western Asia,Iraq,UN-CTS,2014,,
+Asia,Western Asia,Palestine,UN-CTS,2014,,
+Asia,Western Asia,Syria,UN-CTS,2014,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2014,9826,106.6420664
 Asia,Central Asia,Kazakhstan,UN-CTS,2015,42114,239.6653767
 Asia,Eastern Asia,Japan,UN-CTS,2015,58497,45.70613744
 Asia,Eastern Asia,Mongolia,UN-CTS,2015,5471,182.4883256
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2015,54667,107.5635047
+Asia,Eastern Asia,South Korea,UN-CTS,2015,54667,107.5635047
 Asia,South-eastern Asia,Singapore,UN-CTS,2015,12640,226.037196
 Asia,Western Asia,Armenia,UN-CTS,2015,3873,132.3650034
 Asia,Western Asia,Azerbaijan,UN-CTS,2015,,
 Asia,Western Asia,Cyprus,UN-CTS,2015,547,47.11455642
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2015,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2015,,
-Asia,Western Asia,State of Palestine,UN-CTS,2015,,
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2015,,
+Asia,Western Asia,Iraq,UN-CTS,2015,,
+Asia,Western Asia,Iraq,UN-CTS,2015,,
+Asia,Western Asia,Palestine,UN-CTS,2015,,
+Asia,Western Asia,Syria,UN-CTS,2015,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2015,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2016,39179,219.724076
 Asia,Eastern Asia,Japan,UN-CTS,2016,55967,43.80532705
 Asia,Eastern Asia,Mongolia,UN-CTS,2016,5692,186.2565445
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2016,57675,113.1259439
+Asia,Eastern Asia,South Korea,UN-CTS,2016,57675,113.1259439
 Asia,South-eastern Asia,Singapore,UN-CTS,2016,12454,220.2688362
 Asia,Western Asia,Armenia,UN-CTS,2016,3833,130.5517711
 Asia,Western Asia,Azerbaijan,UN-CTS,2016,23311,239.4309778
 Asia,Western Asia,Cyprus,UN-CTS,2016,586,50.08547009
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2016,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2016,,
-Asia,Western Asia,State of Palestine,UN-CTS,2016,1077,23.23123382
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2016,,
+Asia,Western Asia,Iraq,UN-CTS,2016,,
+Asia,Western Asia,Iraq,UN-CTS,2016,,
+Asia,Western Asia,Palestine,UN-CTS,2016,1077,23.23123382
+Asia,Western Asia,Syria,UN-CTS,2016,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2016,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2017,36343,201.0121681
 Asia,Eastern Asia,Japan,UN-CTS,2017,53233,41.75039019
 Asia,Eastern Asia,Mongolia,UN-CTS,2017,3869,124.2453436
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2017,55198,108.0280257
+Asia,Eastern Asia,South Korea,UN-CTS,2017,55198,108.0280257
 Asia,South-eastern Asia,Singapore,UN-CTS,2017,11931,209.0224247
 Asia,Western Asia,Armenia,UN-CTS,2017,3536,120.0679117
 Asia,Western Asia,Azerbaijan,UN-CTS,2017,23319,236.8613509
 Asia,Western Asia,Cyprus,UN-CTS,2017,592,50.16949153
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2017,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2017,,
-Asia,Western Asia,State of Palestine,UN-CTS,2017,1110,23.38318938
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2017,,
+Asia,Western Asia,Iraq,UN-CTS,2017,,
+Asia,Western Asia,Iraq,UN-CTS,2017,,
+Asia,Western Asia,Palestine,UN-CTS,2017,1110,23.38318938
+Asia,Western Asia,Syria,UN-CTS,2017,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2017,,
 Asia,Central Asia,Kazakhstan,UN-CTS,2018,,
 Asia,Eastern Asia,Japan,UN-CTS,2018,50578,39.76195343
 Asia,Eastern Asia,Mongolia,UN-CTS,2018,4804,151.5457413
-Asia,Eastern Asia,Republic of Korea,UN-CTS,2018,54169,105.8567185
+Asia,Eastern Asia,South Korea,UN-CTS,2018,54169,105.8567185
 Asia,South-eastern Asia,Singapore,UN-CTS,2018,11961,207.7644607
 Asia,Western Asia,Armenia,UN-CTS,2018,2266,76.76151762
 Asia,Western Asia,Azerbaijan,UN-CTS,2018,21861,219.7085427
 Asia,Western Asia,Cyprus,UN-CTS,2018,619,52.06055509
-Asia,Western Asia,Iraq (Central Iraq),UN-CTS,2018,,
-Asia,Western Asia,Iraq (Kurdistan Region),UN-CTS,2018,,
-Asia,Western Asia,State of Palestine,UN-CTS,2018,1078,22.16738639
-Asia,Western Asia,Syrian Arab Republic,UN-CTS,2018,,
+Asia,Western Asia,Iraq,UN-CTS,2018,,
+Asia,Western Asia,Iraq,UN-CTS,2018,,
+Asia,Western Asia,Palestine,UN-CTS,2018,1078,22.16738639
+Asia,Western Asia,Syria,UN-CTS,2018,,
 Asia,Western Asia,United Arab Emirates,UN-CTS,2018,,
 Europe,Eastern Europe,Poland,UN-CTS,2007,89648,233.7444268
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2007,7895,191.1622276
+Europe,Eastern Europe,Moldova,UN-CTS,2007,7895,191.1622276
 Europe,Eastern Europe,Romania,UN-CTS,2007,29390,139.7261577
-Europe,Eastern Europe,Russian Federation,UN-CTS,2007,883170,616.4547066
+Europe,Eastern Europe,Russia,UN-CTS,2007,883170,616.4547066
 Europe,Eastern Europe,Slovakia,UN-CTS,2007,7986,147.9162808
 Europe,Eastern Europe,Ukraine,UN-CTS,2007,149690,322.8443256
 Europe,Northern Europe,Ireland,UN-CTS,2007,3253,75.21387283
@@ -1299,9 +1299,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2007,6548,297.9071884
 Europe,Northern Europe,Lithuania,UN-CTS,2007,7866,241.3623811
 Europe,Northern Europe,Norway,UN-CTS,2007,3446,73.02394575
 Europe,Northern Europe,Sweden,UN-CTS,2007,6977,76.14318455
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2007,78445,144.233796
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2007,1504,85.37290761
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2007,7376,142.6692456
+Europe,Northern Europe,United Kingdom,UN-CTS,2007,78445,144.233796
+Europe,Northern Europe,United Kingdom,UN-CTS,2007,1504,85.37290761
+Europe,Northern Europe,United Kingdom,UN-CTS,2007,7376,142.6692456
 Europe,Southern Europe,Italy,UN-CTS,2007,49697,84.59351808
 Europe,Southern Europe,Montenegro,UN-CTS,2007,957,154.3548387
 Europe,Southern Europe,North Macedonia,UN-CTS,2007,,
@@ -1315,9 +1315,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2008,9408,125.0398724
 Europe,Eastern Europe,Czechia,UN-CTS,2008,20502,196.6618705
 Europe,Eastern Europe,Hungary,UN-CTS,2008,14743,147.5480384
 Europe,Eastern Europe,Poland,UN-CTS,2008,84978,221.5449592
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2008,6830,166.0588378
+Europe,Eastern Europe,Moldova,UN-CTS,2008,6830,166.0588378
 Europe,Eastern Europe,Romania,UN-CTS,2008,26212,125.837734
-Europe,Eastern Europe,Russian Federation,UN-CTS,2008,883723,616.9139052
+Europe,Eastern Europe,Russia,UN-CTS,2008,883723,616.9139052
 Europe,Eastern Europe,Slovakia,UN-CTS,2008,8166,151.2502315
 Europe,Eastern Europe,Ukraine,UN-CTS,2008,145946,316.1810265
 Europe,Northern Europe,Denmark,UN-CTS,2008,3451,62.76827937
@@ -1329,9 +1329,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2008,6548,301.6121603
 Europe,Northern Europe,Lithuania,UN-CTS,2008,8000,248.9884843
 Europe,Northern Europe,Norway,UN-CTS,2008,3477,72.8778034
 Europe,Northern Europe,Sweden,UN-CTS,2008,7073,76.5807709
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2008,81674,148.926766
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2008,1543,86.72671025
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2008,7827,150.4353341
+Europe,Northern Europe,United Kingdom,UN-CTS,2008,81674,148.926766
+Europe,Northern Europe,United Kingdom,UN-CTS,2008,1543,86.72671025
+Europe,Northern Europe,United Kingdom,UN-CTS,2008,7827,150.4353341
 Europe,Southern Europe,Albania,UN-CTS,2008,4916,163.7029637
 Europe,Southern Europe,Croatia,UN-CTS,2008,4734,108.7525844
 Europe,Southern Europe,Holy See,UN-CTS,2008,,
@@ -1350,9 +1350,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2009,9006,120.4977254
 Europe,Eastern Europe,Czechia,UN-CTS,2009,21734,207.2273074
 Europe,Eastern Europe,Hungary,UN-CTS,2009,15432,154.9553168
 Europe,Eastern Europe,Poland,UN-CTS,2009,85749,223.5841677
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2009,6535,159.4680332
+Europe,Eastern Europe,Moldova,UN-CTS,2009,6535,159.4680332
 Europe,Eastern Europe,Romania,UN-CTS,2009,26716,129.4505282
-Europe,Eastern Europe,Russian Federation,UN-CTS,2009,863990,602.8103567
+Europe,Eastern Europe,Russia,UN-CTS,2009,863990,602.8103567
 Europe,Eastern Europe,Slovakia,UN-CTS,2009,9316,172.4865766
 Europe,Eastern Europe,Ukraine,UN-CTS,2009,147716,321.3243132
 Europe,Northern Europe,Denmark,UN-CTS,2009,3721,67.33622874
@@ -1364,9 +1364,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2009,7055,328.9044289
 Europe,Northern Europe,Lithuania,UN-CTS,2009,8655,273.2870224
 Europe,Northern Europe,Norway,UN-CTS,2009,3340,69.19411643
 Europe,Northern Europe,Sweden,UN-CTS,2009,7286,78.23472565
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2009,81836,148.1590027
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2009,1525,85.03719053
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2009,7964,152.2200348
+Europe,Northern Europe,United Kingdom,UN-CTS,2009,81836,148.1590027
+Europe,Northern Europe,United Kingdom,UN-CTS,2009,1525,85.03719053
+Europe,Northern Europe,United Kingdom,UN-CTS,2009,7964,152.2200348
 Europe,Southern Europe,Albania,UN-CTS,2009,4667,156.979482
 Europe,Southern Europe,Croatia,UN-CTS,2009,4891,112.6698917
 Europe,Southern Europe,Holy See,UN-CTS,2009,0,0
@@ -1385,9 +1385,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2010,9379,126.3164983
 Europe,Eastern Europe,Czechia,UN-CTS,2010,21900,207.8390434
 Europe,Eastern Europe,Hungary,UN-CTS,2010,16328,164.4807092
 Europe,Eastern Europe,Poland,UN-CTS,2010,82372,214.9021654
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2010,6324,154.7723935
+Europe,Eastern Europe,Moldova,UN-CTS,2010,6324,154.7723935
 Europe,Eastern Europe,Romania,UN-CTS,2010,28244,137.9640485
-Europe,Eastern Europe,Russian Federation,UN-CTS,2010,819280,571.0103918
+Europe,Eastern Europe,Russia,UN-CTS,2010,819280,571.0103918
 Europe,Eastern Europe,Slovakia,UN-CTS,2010,10031,185.6217617
 Europe,Eastern Europe,Ukraine,UN-CTS,2010,154027,336.3622467
 Europe,Northern Europe,Denmark,UN-CTS,2010,3944,70.99909991
@@ -1399,9 +1399,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2010,6780,319.9622463
 Europe,Northern Europe,Lithuania,UN-CTS,2010,9139,292.5416133
 Europe,Northern Europe,Norway,UN-CTS,2010,3564,72.94310274
 Europe,Northern Europe,Sweden,UN-CTS,2010,6846,72.90734824
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2010,84004,150.8355993
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2010,1465,81.1709449
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2010,7854,149.2531641
+Europe,Northern Europe,United Kingdom,UN-CTS,2010,84004,150.8355993
+Europe,Northern Europe,United Kingdom,UN-CTS,2010,1465,81.1709449
+Europe,Northern Europe,United Kingdom,UN-CTS,2010,7854,149.2531641
 Europe,Southern Europe,Albania,UN-CTS,2010,4657,157.9715061
 Europe,Southern Europe,Croatia,UN-CTS,2010,5165,119.3391867
 Europe,Southern Europe,Holy See,UN-CTS,2010,0,0
@@ -1420,9 +1420,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2011,9885,133.9612414
 Europe,Eastern Europe,Czechia,UN-CTS,2011,23170,219.267531
 Europe,Eastern Europe,Hungary,UN-CTS,2011,17210,173.90865
 Europe,Eastern Europe,Poland,UN-CTS,2011,82832,216.3449735
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2011,6480,158.8624663
+Europe,Eastern Europe,Moldova,UN-CTS,2011,6480,158.8624663
 Europe,Eastern Europe,Romania,UN-CTS,2011,30694,150.926882
-Europe,Eastern Europe,Russian Federation,UN-CTS,2011,755648,525.8401008
+Europe,Eastern Europe,Russia,UN-CTS,2011,755648,525.8401008
 Europe,Eastern Europe,Slovakia,UN-CTS,2011,10525,194.5831022
 Europe,Eastern Europe,Ukraine,UN-CTS,2011,154029,337.6348093
 Europe,Northern Europe,Denmark,UN-CTS,2011,3947,70.69675802
@@ -1434,9 +1434,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2011,6561,313.3237822
 Europe,Northern Europe,Lithuania,UN-CTS,2011,9920,321.7645151
 Europe,Northern Europe,Norway,UN-CTS,2011,3866,78.13257882
 Europe,Northern Europe,Sweden,UN-CTS,2011,6669,70.44470265
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2011,84428,150.305513
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2011,1673,92.21095751
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2011,8179,154.3236665
+Europe,Northern Europe,United Kingdom,UN-CTS,2011,84428,150.305513
+Europe,Northern Europe,United Kingdom,UN-CTS,2011,1673,92.21095751
+Europe,Northern Europe,United Kingdom,UN-CTS,2011,8179,154.3236665
 Europe,Southern Europe,Albania,UN-CTS,2011,4659,159.0645271
 Europe,Southern Europe,Croatia,UN-CTS,2011,5084,117.8761883
 Europe,Southern Europe,Holy See,UN-CTS,2011,0,0
@@ -1455,9 +1455,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2012,9493,129.4382329
 Europe,Eastern Europe,Czechia,UN-CTS,2012,22644,214.0062376
 Europe,Eastern Europe,Hungary,UN-CTS,2012,17179,174.1585564
 Europe,Eastern Europe,Poland,UN-CTS,2012,85459,223.5566484
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2012,6583,161.5063788
+Europe,Eastern Europe,Moldova,UN-CTS,2012,6583,161.5063788
 Europe,Eastern Europe,Romania,UN-CTS,2012,31817,157.299649
-Europe,Eastern Europe,Russian Federation,UN-CTS,2012,701909,487.4571163
+Europe,Eastern Europe,Russia,UN-CTS,2012,701909,487.4571163
 Europe,Eastern Europe,Slovakia,UN-CTS,2012,10850,200.3693444
 Europe,Eastern Europe,Ukraine,UN-CTS,2012,,
 Europe,Northern Europe,Denmark,UN-CTS,2012,3829,68.24095527
@@ -1469,9 +1469,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2012,6117,295.6500725
 Europe,Northern Europe,Lithuania,UN-CTS,2012,9729,319.4024951
 Europe,Northern Europe,Norway,UN-CTS,2012,4052,80.81372158
 Europe,Northern Europe,Sweden,UN-CTS,2012,6296,65.97506025
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2012,84886,150.0606458
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2012,1682,92.23341965
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2012,8057,151.6297802
+Europe,Northern Europe,United Kingdom,UN-CTS,2012,84886,150.0606458
+Europe,Northern Europe,United Kingdom,UN-CTS,2012,1682,92.23341965
+Europe,Northern Europe,United Kingdom,UN-CTS,2012,8057,151.6297802
 Europe,Southern Europe,Albania,UN-CTS,2012,4618,158.4763212
 Europe,Southern Europe,Croatia,UN-CTS,2012,4741,110.358473
 Europe,Southern Europe,Holy See,UN-CTS,2012,1,100
@@ -1490,9 +1490,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2013,8834,121.1796982
 Europe,Eastern Europe,Czechia,UN-CTS,2013,16645,157.2211202
 Europe,Eastern Europe,Hungary,UN-CTS,2013,17841,181.4215985
 Europe,Eastern Europe,Poland,UN-CTS,2013,80165,210.0870067
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2013,6853,168.1717791
+Europe,Eastern Europe,Moldova,UN-CTS,2013,6853,168.1717791
 Europe,Eastern Europe,Romania,UN-CTS,2013,33434,166.0656633
-Europe,Eastern Europe,Russian Federation,UN-CTS,2013,677287,469.2790577
+Europe,Eastern Europe,Russia,UN-CTS,2013,677287,469.2790577
 Europe,Eastern Europe,Slovakia,UN-CTS,2013,9753,179.8782737
 Europe,Eastern Europe,Ukraine,UN-CTS,2013,147112,324.8437742
 Europe,Northern Europe,Denmark,UN-CTS,2013,4091,72.56119191
@@ -1504,9 +1504,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2013,5136,251.1491443
 Europe,Northern Europe,Lithuania,UN-CTS,2013,9261,307.77667
 Europe,Northern Europe,Norway,UN-CTS,2013,3869,76.17641268
 Europe,Northern Europe,Sweden,UN-CTS,2013,5723,59.50301518
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2013,81884,143.7867365
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2013,1796,98.15682685
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2013,7894,148.1690035
+Europe,Northern Europe,United Kingdom,UN-CTS,2013,81884,143.7867365
+Europe,Northern Europe,United Kingdom,UN-CTS,2013,1796,98.15682685
+Europe,Northern Europe,United Kingdom,UN-CTS,2013,7894,148.1690035
 Europe,Southern Europe,Albania,UN-CTS,2013,4998,172.107438
 Europe,Southern Europe,Croatia,UN-CTS,2013,4352,101.7535656
 Europe,Southern Europe,Holy See,UN-CTS,2013,0,0
@@ -1525,9 +1525,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2014,7870,108.6116478
 Europe,Eastern Europe,Czechia,UN-CTS,2014,18658,176.1684449
 Europe,Eastern Europe,Hungary,UN-CTS,2014,17890,182.4579296
 Europe,Eastern Europe,Poland,UN-CTS,2014,79345,208.3037988
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2014,7317,179.6464522
+Europe,Eastern Europe,Moldova,UN-CTS,2014,7317,179.6464522
 Europe,Eastern Europe,Romania,UN-CTS,2014,30156,150.5090836
-Europe,Eastern Europe,Russian Federation,UN-CTS,2014,671649,464.2788511
+Europe,Eastern Europe,Russia,UN-CTS,2014,671649,464.2788511
 Europe,Eastern Europe,Slovakia,UN-CTS,2014,10020,184.5643765
 Europe,Eastern Europe,Ukraine,UN-CTS,2014,,
 Europe,Northern Europe,Denmark,UN-CTS,2014,3583,63.25918079
@@ -1539,9 +1539,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2014,4745,234.78476
 Europe,Northern Europe,Lithuania,UN-CTS,2014,8636,290.6765399
 Europe,Northern Europe,Norway,UN-CTS,2014,4103,79.79385453
 Europe,Northern Europe,Sweden,UN-CTS,2014,5807,59.91539414
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2014,83678,145.7585123
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2014,1709,92.85530329
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2014,7731,144.5695265
+Europe,Northern Europe,United Kingdom,UN-CTS,2014,83678,145.7585123
+Europe,Northern Europe,United Kingdom,UN-CTS,2014,1709,92.85530329
+Europe,Northern Europe,United Kingdom,UN-CTS,2014,7731,144.5695265
 Europe,Southern Europe,Albania,UN-CTS,2014,5689,196.4433702
 Europe,Southern Europe,Croatia,UN-CTS,2014,3763,88.41635338
 Europe,Southern Europe,Holy See,UN-CTS,2014,0,0
@@ -1560,9 +1560,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2015,7408,102.8888889
 Europe,Eastern Europe,Czechia,UN-CTS,2015,20866,196.8304877
 Europe,Eastern Europe,Hungary,UN-CTS,2015,17449,178.4516261
 Europe,Eastern Europe,Poland,UN-CTS,2015,72695,191.1316191
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2015,8054,197.838369
+Europe,Eastern Europe,Moldova,UN-CTS,2015,8054,197.838369
 Europe,Eastern Europe,Romania,UN-CTS,2015,28334,142.2032622
-Europe,Eastern Europe,Russian Federation,UN-CTS,2015,646085,445.6219609
+Europe,Eastern Europe,Russia,UN-CTS,2015,646085,445.6219609
 Europe,Eastern Europe,Slovakia,UN-CTS,2015,9913,182.3583517
 Europe,Eastern Europe,Ukraine,UN-CTS,2015,,
 Europe,Northern Europe,Denmark,UN-CTS,2015,3203,56.30163473
@@ -1574,9 +1574,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2015,4409,220.6706707
 Europe,Northern Europe,Lithuania,UN-CTS,2015,7355,250.8526603
 Europe,Northern Europe,Norway,UN-CTS,2015,4056,78
 Europe,Northern Europe,Sweden,UN-CTS,2015,5691,58.27956989
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2015,84444,145.8813121
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2015,1447,78.1477419
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2015,7744,144.1280476
+Europe,Northern Europe,United Kingdom,UN-CTS,2015,84444,145.8813121
+Europe,Northern Europe,United Kingdom,UN-CTS,2015,1447,78.1477419
+Europe,Northern Europe,United Kingdom,UN-CTS,2015,7744,144.1280476
 Europe,Southern Europe,Albania,UN-CTS,2015,5981,206.8834313
 Europe,Southern Europe,Croatia,UN-CTS,2015,3341,78.9274746
 Europe,Southern Europe,Holy See,UN-CTS,2015,1,100
@@ -1595,9 +1595,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2016,7345,102.6985459
 Europe,Eastern Europe,Czechia,UN-CTS,2016,22481,211.7054337
 Europe,Eastern Europe,Hungary,UN-CTS,2016,17658,181.051984
 Europe,Eastern Europe,Poland,UN-CTS,2016,72209,190.078707
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2016,7872,193.6055091
+Europe,Eastern Europe,Moldova,UN-CTS,2016,7872,193.6055091
 Europe,Eastern Europe,Romania,UN-CTS,2016,27455,138.6896343
-Europe,Eastern Europe,Russian Federation,UN-CTS,2016,630155,433.7669936
+Europe,Eastern Europe,Russia,UN-CTS,2016,630155,433.7669936
 Europe,Eastern Europe,Slovakia,UN-CTS,2016,9995,183.6640941
 Europe,Eastern Europe,Ukraine,UN-CTS,2016,60771,135.9104531
 Europe,Northern Europe,Denmark,UN-CTS,2016,3408,59.67431273
@@ -1609,9 +1609,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2016,4243,214.9442756
 Europe,Northern Europe,Lithuania,UN-CTS,2016,6815,235.8131488
 Europe,Northern Europe,Norway,UN-CTS,2016,4192,79.83241287
 Europe,Northern Europe,Sweden,UN-CTS,2016,5658,57.52338349
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2016,83604,143.5228747
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2016,1407,75.16309478
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2016,7579.075472,140.0302026
+Europe,Northern Europe,United Kingdom,UN-CTS,2016,83604,143.5228747
+Europe,Northern Europe,United Kingdom,UN-CTS,2016,1407,75.16309478
+Europe,Northern Europe,United Kingdom,UN-CTS,2016,7579.075472,140.0302026
 Europe,Southern Europe,Albania,UN-CTS,2016,6031,208.974359
 Europe,Southern Europe,Croatia,UN-CTS,2016,3108,73.84176764
 Europe,Southern Europe,Holy See,UN-CTS,2016,,
@@ -1630,9 +1630,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2017,6988,98.39481836
 Europe,Eastern Europe,Czechia,UN-CTS,2017,22159,208.2417066
 Europe,Eastern Europe,Hungary,UN-CTS,2017,17343,178.2425488
 Europe,Eastern Europe,Poland,UN-CTS,2017,74480,196.2427213
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2017,7635,188.0541872
+Europe,Eastern Europe,Moldova,UN-CTS,2017,7635,188.0541872
 Europe,Eastern Europe,Romania,UN-CTS,2017,23450,119.3141345
-Europe,Eastern Europe,Russian Federation,UN-CTS,2017,602176,413.7813509
+Europe,Eastern Europe,Russia,UN-CTS,2017,602176,413.7813509
 Europe,Eastern Europe,Slovakia,UN-CTS,2017,10028,184.0675477
 Europe,Eastern Europe,Ukraine,UN-CTS,2017,57100,128.3492178
 Europe,Northern Europe,Denmark,UN-CTS,2017,3418,59.63014655
@@ -1644,9 +1644,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2017,3765,192.97796
 Europe,Northern Europe,Lithuania,UN-CTS,2017,6599,231.9507909
 Europe,Northern Europe,Norway,UN-CTS,2017,,
 Europe,Northern Europe,Sweden,UN-CTS,2017,5713,57.67794043
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2017,84441,143.9121302
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2017,1411,74.87286334
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2017,7436.470588,136.7189661
+Europe,Northern Europe,United Kingdom,UN-CTS,2017,84441,143.9121302
+Europe,Northern Europe,United Kingdom,UN-CTS,2017,1411,74.87286334
+Europe,Northern Europe,United Kingdom,UN-CTS,2017,7436.470588,136.7189661
 Europe,Southern Europe,Albania,UN-CTS,2017,5674,196.740638
 Europe,Southern Europe,Croatia,UN-CTS,2017,3190,76.26105666
 Europe,Southern Europe,Holy See,UN-CTS,2017,,
@@ -1665,9 +1665,9 @@ Europe,Eastern Europe,Bulgaria,UN-CTS,2018,6651,94.31366988
 Europe,Eastern Europe,Czechia,UN-CTS,2018,21577,202.2970186
 Europe,Eastern Europe,Hungary,UN-CTS,2018,16947,174.5853508
 Europe,Eastern Europe,Poland,UN-CTS,2018,72818,192.0204631
-Europe,Eastern Europe,Republic of Moldova,UN-CTS,2018,6990,172.5074038
+Europe,Eastern Europe,Moldova,UN-CTS,2018,6990,172.5074038
 Europe,Eastern Europe,Romania,UN-CTS,2018,20792,106.5928432
-Europe,Eastern Europe,Russian Federation,UN-CTS,2018,563166,386.4341883
+Europe,Eastern Europe,Russia,UN-CTS,2018,563166,386.4341883
 Europe,Eastern Europe,Slovakia,UN-CTS,2018,10294,188.7768201
 Europe,Eastern Europe,Ukraine,UN-CTS,2018,,
 Europe,Northern Europe,Denmark,UN-CTS,2018,3635,63.19541029
@@ -1679,9 +1679,9 @@ Europe,Northern Europe,Latvia,UN-CTS,2018,3522,182.6763485
 Europe,Northern Europe,Lithuania,UN-CTS,2018,6485,231.5244556
 Europe,Northern Europe,Norway,UN-CTS,2018,,
 Europe,Northern Europe,Sweden,UN-CTS,2018,6114,61.31167268
-Europe,Northern Europe,United Kingdom (England and Wales),UN-CTS,2018,81904,138.5867771
-Europe,Northern Europe,United Kingdom (Northern Ireland),UN-CTS,2018,1407,74.16479627
-Europe,Northern Europe,United Kingdom (Scotland),UN-CTS,2018,7788,142.4802891
+Europe,Northern Europe,United Kingdom,UN-CTS,2018,81904,138.5867771
+Europe,Northern Europe,United Kingdom,UN-CTS,2018,1407,74.16479627
+Europe,Northern Europe,United Kingdom,UN-CTS,2018,7788,142.4802891
 Europe,Southern Europe,Albania,UN-CTS,2018,5316,184.3912591
 Europe,Southern Europe,Croatia,UN-CTS,2018,3217,77.40615977
 Europe,Southern Europe,Holy See,UN-CTS,2018,,
@@ -1996,7 +1996,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2008,11390,142.7139456
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2008,219754,198.3070884
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2008,5925,104.5526734
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2008,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2008,7433,76.46332682
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2008,7433,76.46332682
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2008,451219,234.9731813
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2008,12067,83.01458448
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2008,7665,229.491018
@@ -2015,7 +2015,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2009,,
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2009,186614,165.9322094
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2009,5807,101.0616081
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2009,278,421.2121212
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2009,8087,81.81082448
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2009,8087,81.81082448
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2009,491482,253.4888879
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2009,,
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2009,,
@@ -2034,7 +2034,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2010,11770,141.5173741
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2010,188013,164.7892509
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2010,6789,116.5693681
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2010,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2010,8930,88.86456364
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2010,8930,88.86456364
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2010,513954,262.6046169
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2010,11800,78.60902005
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2010,8700,259.0056564
@@ -2053,7 +2053,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2011,12006,141.5634949
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2011,213758,184.7599291
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2011,,
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2011,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2011,11195,109.6151963
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2011,11195,109.6151963
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2011,534605,270.6655191
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2011,,
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2011,9070,269.2193529
@@ -2072,7 +2072,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2012,12095,139.9722254
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2012,207278,176.746764
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2012,9800,163.797426
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2012,252,387.6923077
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2012,14272,137.5216805
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2012,14272,137.5216805
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2012,570318,286.179229
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2012,21305,137.6825643
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2012,9418,278.7215152
@@ -2091,7 +2091,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2013,13184,149.8352085
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2013,218373,183.7738898
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2013,,
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2013,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2013,14770,140.1062417
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2013,14770,140.1062417
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2013,606208,301.5420124
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2013,25494,162.3097982
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2013,9448,278.7843022
@@ -2110,7 +2110,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2014,14882,166.1679321
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2014,228021,189.457023
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2014,10569,172.0494872
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2014,230,359.375
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2014,14220,132.810311
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2014,14220,132.810311
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2014,607731,299.7233237
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2014,24036,150.6770311
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2014,9542,280.6470588
@@ -2129,7 +2129,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2015,16158,177.3071436
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2015,221439,181.7188859
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2015,,
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2015,209,326.5625
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2015,13672,125.7773689
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2015,13672,125.7773689
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2015,698618,341.669275
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2015,28379,175.0493462
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2015,9996,292.9660023
@@ -2148,7 +2148,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2016,17494,188.6959336
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2016,190175,154.1963627
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2016,14675,232.7887056
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2016,,
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2016,16038,145.3770848
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2016,16038,145.3770848
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2016,726712,352.4939005
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2016,34665,210.2055667
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2016,10561,308.4404206
@@ -2167,7 +2167,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2017,19335,205.058861
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2017,201903,161.811071
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2017,,
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2017,200,317.4603175
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2017,17946,160.3323506
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2017,17946,160.3323506
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2017,700489,337.0425436
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2017,37316,222.3175454
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2017,11078,322.3159732
@@ -2186,7 +2186,7 @@ Americas,Central America,Honduras,UN-CTS/WPB-ICPR,2018,20728,216.1869003
 Americas,Central America,Mexico,UN-CTS/WPB-ICPR,2018,196322,155.5752787
 Americas,Central America,Nicaragua,UN-CTS/WPB-ICPR,2018,20918,323.5075781
 Americas,Northern America,Bermuda,UN-CTS/WPB-ICPR,2018,173,274.6031746
-Americas,South America,Bolivia (Plurinational State of),UN-CTS/WPB-ICPR,2018,18195,160.266009
+Americas,South America,Bolivia,UN-CTS/WPB-ICPR,2018,18195,160.266009
 Americas,South America,Brazil,UN-CTS/WPB-ICPR,2018,720888,344.1502084
 Americas,South America,Ecuador,UN-CTS/WPB-ICPR,2018,37497,219.4860688
 Americas,South America,Uruguay,UN-CTS/WPB-ICPR,2018,10243,296.9846332
@@ -2203,9 +2203,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2007,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2007,5947,27.94248931
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2008,9607,182.8163654
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2008,,
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2008,10738,156.0302238
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2008,912,177.0873786
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2008,453,119.525066
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2008,10738,156.0302238
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2008,912,177.0873786
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2008,453,119.525066
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2008,137144,58.24266361
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2008,94961,104.4652483
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2008,185082,278.1891148
@@ -2222,9 +2222,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2008,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2008,6574,30.02923442
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2009,,
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2009,,
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2009,10118,146.1083032
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2009,930,176.8060837
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2009,,
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2009,10118,146.1083032
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2009,930,176.8060837
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2009,,
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2009,,
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2009,,
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2009,213094,318.6833565
@@ -2241,9 +2241,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2009,44600,167.4802854
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2009,6894,30.61822704
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2010,9923,183.0136481
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2010,26500,520.9357185
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2010,10159,145.8369222
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2010,929,172.6765799
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2010,379,97.42930591
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2010,10159,145.8369222
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2010,929,172.6765799
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2010,379,97.42930591
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2010,117863,48.73715028
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2010,95390,101.5143614
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2010,210855,313.7956693
@@ -2260,9 +2260,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2010,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2010,12409,53.59101706
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2011,,
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2011,,
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2011,9294,132.6387898
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2011,1030,186.9328494
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2011,,
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2011,9294,132.6387898
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2011,1030,186.9328494
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2011,,
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2011,,
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2011,100590,105.2526944
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2011,224492,332.4920762
@@ -2279,9 +2279,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2011,49000,173.3408801
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2011,10390,43.64079301
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2012,9828,174.8132337
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2012,,
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2012,9468,134.3550447
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2012,1112,197.1631206
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2012,485,121.5538847
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2012,9468,134.3550447
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2012,1112,197.1631206
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2012,485,121.5538847
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2012,156446,62.96829971
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2012,106623,109.6797753
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2012,234895,346.2689427
@@ -2298,9 +2298,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2012,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2012,,
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2013,9997,174.437271
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2013,30568,569.6608274
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2013,9192,129.6656792
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2013,1154,200
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2013,,
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2013,9192,129.6656792
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2013,1154,200
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2013,,
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2013,160061,63.5654574
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2013,110747,112.0104782
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2013,279854,410.6742975
@@ -2317,9 +2317,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2013,47000,156.395581
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2013,14000,55.67264485
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2014,9581,163.9178785
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2014,,
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2014,8297,116.2859145
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2014,1205,204.2372881
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2014,594,144.8780488
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2014,8297,116.2859145
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2014,1205,204.2372881
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2014,594,144.8780488
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2014,159964,62.6995077
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2014,124550,123.9143195
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2014,317980,464.6181271
@@ -2336,9 +2336,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2014,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2014,14000,54.21523448
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2015,10147,170.2802484
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2015,,
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2015,8459.89,117.7273866
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2015,1280,212.6245847
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2015,565,136.1445783
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2015,8459.89,117.7273866
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2015,1280,212.6245847
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2015,565,136.1445783
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2015,173572,67.17624612
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2015,139469,136.5830012
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2015,323473,470.7458342
@@ -2355,9 +2355,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2015,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2015,,
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2016,10328,170.03622
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2016,,
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2016,8611,118.8707896
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2016,1271,207.3409462
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2016,,
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2016,8611,118.8707896
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2016,1271,207.3409462
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2016,,
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2016,202621,77.46754041
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2016,170543,164.5151644
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2016,325298,471.6446043
@@ -2374,9 +2374,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2016,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2016,,
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2017,10574,170.8239095
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2017,30452,528.864189
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2017,8506,116.4248563
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2017,1284,206.0995185
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2017,,
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2017,8506,116.4248563
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2017,1284,206.0995185
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2017,,
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2017,232081,87.69322617
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2017,,
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2017,372979,538.9091172
@@ -2393,9 +2393,9 @@ Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2017,68056,205.6010392
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2017,,
 Asia,Central Asia,Kyrgyzstan,UN-CTS/WPB-ICPR,2018,11163,177.0780457
 Asia,Central Asia,Turkmenistan,UN-CTS/WPB-ICPR,2018,,
-Asia,Eastern Asia,"China, Hong Kong SAR",UN-CTS/WPB-ICPR,2018,8237,111.7335865
-Asia,Eastern Asia,"China, Macao SAR",UN-CTS/WPB-ICPR,2018,1458,230.6962025
-Asia,South-eastern Asia,Brunei Darussalam,UN-CTS/WPB-ICPR,2018,,
+Asia,Eastern Asia,Hong Kong,UN-CTS/WPB-ICPR,2018,8237,111.7335865
+Asia,Eastern Asia,Macao,UN-CTS/WPB-ICPR,2018,1458,230.6962025
+Asia,South-eastern Asia,Brunei,UN-CTS/WPB-ICPR,2018,,
 Asia,South-eastern Asia,Indonesia,UN-CTS/WPB-ICPR,2018,256051,95.65884986
 Asia,South-eastern Asia,Philippines,UN-CTS/WPB-ICPR,2018,194658,182.5186824
 Asia,South-eastern Asia,Thailand,UN-CTS/WPB-ICPR,2018,366316,527.6199804
@@ -2410,7 +2410,7 @@ Asia,Western Asia,Lebanon,UN-CTS/WPB-ICPR,2018,6330,92.28750547
 Asia,Western Asia,Qatar,UN-CTS/WPB-ICPR,2018,,
 Asia,Western Asia,Saudi Arabia,UN-CTS/WPB-ICPR,2018,,
 Asia,Western Asia,Yemen,UN-CTS/WPB-ICPR,2018,,
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2007,,
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2007,,
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2007,9043,122.740172
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2007,741,156
 Europe,Western Europe,Monaco,UN-CTS/WPB-ICPR,2007,36,102.8571429
@@ -2418,7 +2418,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2008,12,25
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2008,73,86.90476191
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2008,2660,70.85775173
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2008,11736,106.3043478
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2008,,
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2008,,
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2008,9701,132.6611253
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2008,62252,100.0691218
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2008,762,157.1134021
@@ -2427,7 +2427,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2009,9,18.75
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2009,55,65.47619048
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2009,,
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2009,11364,103.6955927
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2009,1325,75.22109324
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2009,1325,75.22109324
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2009,10975,151.1390306
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2009,60978,97.49772157
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2009,702,141.2474849
@@ -2436,7 +2436,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2010,8,16.66666667
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2010,44,52.38095238
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2010,2743,74.03508772
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2010,12349,113.4184423
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2010,1333,75.0698324
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2010,1333,75.0698324
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2010,11211,155.3777241
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2010,60544,96.28498728
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2010,681,134.0551181
@@ -2445,7 +2445,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2011,8,16.66666667
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2011,49,58.33333333
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2011,2757,75.30729309
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2011,12479,115.236864
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2011,1441,80.45784478
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2011,1441,80.45784478
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2011,11070,154.3287327
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2011,64787,102.4754041
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2011,637,122.7360308
@@ -2454,7 +2454,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2012,8,16.66666667
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2012,36,43.90243902
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2012,2928,81.22052705
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2012,12475,115.7128281
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2012,1737,96.22202526
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2012,1737,96.22202526
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2012,10226,143.3256714
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2012,66572,104.7322384
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2012,666,125.4237288
@@ -2463,7 +2463,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2013,10,20.83333333
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2013,43,53.08641975
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2013,2898,81.79508891
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2013,12693,118.1733544
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2013,1776,97.36308316
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2013,1776,97.36308316
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2013,10031,141.3832471
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2013,67075,104.9785582
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2013,656,120.8103131
@@ -2472,7 +2472,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2014,11,22.91666667
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2014,53,67.0886076
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2014,2825,81.1315336
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2014,11798,110.2513784
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2014,1854,101.7674827
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2014,1854,101.7674827
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2014,10288,145.388768
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2014,66270,103.2339471
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2014,626,112.7927928
@@ -2481,7 +2481,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2015,10,20.83333333
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2015,41,52.56410256
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2015,2730,79.61504812
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2015,9611,90.15947467
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2015,1478,82.02908203
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2015,1478,82.02908203
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2015,10064,142.2433288
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2015,66678,103.4521279
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2015,691,121.8694885
@@ -2490,7 +2490,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2016,8,16.66666667
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2016,46,59.74025974
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2016,2832,83.63851152
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2016,9560,90.0612341
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2016,1648,90.73890541
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2016,1648,90.73890541
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2016,10672,151.6382961
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2016,68432,105.8204985
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2016,724,125.0431779
@@ -2499,7 +2499,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2017,6,12.5
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2017,43,55.84415584
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2017,2820,84.12887828
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2017,10011,94.72040874
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2017,1609,87.87547788
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2017,1609,87.87547788
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2017,10807,154.4077725
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2017,68974,106.3707725
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2017,684,115.5405405
@@ -2508,7 +2508,7 @@ Europe,Northern Europe,Faeroe Islands,UN-CTS/WPB-ICPR,2018,,
 Europe,Southern Europe,Andorra,UN-CTS/WPB-ICPR,2018,49,63.63636364
 Europe,Southern Europe,Bosnia and Herzegovina,UN-CTS/WPB-ICPR,2018,,
 Europe,Southern Europe,Greece,UN-CTS/WPB-ICPR,2018,10654,101.2545144
-Europe,Southern Europe,Kosovo under UNSCR 1244,UN-CTS/WPB-ICPR,2018,1567,84.63606351
+Europe,Southern Europe,Kosovo,UN-CTS/WPB-ICPR,2018,1567,84.63606351
 Europe,Southern Europe,Serbia,UN-CTS/WPB-ICPR,2018,10871,156.3825384
 Europe,Western Europe,France,UN-CTS/WPB-ICPR,2018,,
 Europe,Western Europe,Luxembourg,UN-CTS/WPB-ICPR,2018,650,107.615894
@@ -2516,9 +2516,9 @@ Europe,Western Europe,Monaco,UN-CTS/WPB-ICPR,2018,,
 Africa,Eastern Africa,Malawi,WPB-ICPR,2007,10830,81.17223805
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2007,155,81.57894737
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2007,,
-Africa,Eastern Africa,Réunion,WPB-ICPR,2007,1307,161.5574784
+Africa,Eastern Africa,Reunion,WPB-ICPR,2007,1307,161.5574784
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2007,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2007,,
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2007,,
 Africa,Eastern Africa,Zambia,WPB-ICPR,2007,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2007,,
 Africa,Northern Africa,Libya,WPB-ICPR,2007,13217,221.2050209
@@ -2534,15 +2534,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2008,85664,103.3141975
 Africa,Eastern Africa,Malawi,WPB-ICPR,2008,11000,80.12820513
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2008,,
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2008,,
-Africa,Eastern Africa,Réunion,WPB-ICPR,2008,,
+Africa,Eastern Africa,Reunion,WPB-ICPR,2008,,
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2008,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2008,41613,99.42418885
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2008,41613,99.42418885
 Africa,Eastern Africa,Zambia,WPB-ICPR,2008,15000,116.7406024
 Africa,Middle Africa,Angola,WPB-ICPR,2008,,
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2008,,
 Africa,Middle Africa,Chad,WPB-ICPR,2008,,
 Africa,Middle Africa,Congo,WPB-ICPR,2008,,
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2008,,
+Africa,Middle Africa,Congo,WPB-ICPR,2008,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2008,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2008,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2008,,
@@ -2551,7 +2551,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2008,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2008,,
 Africa,Southern Africa,Namibia,WPB-ICPR,2008,,
 Africa,Southern Africa,South Africa,WPB-ICPR,2008,164297,330.0528335
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2008,11143,56.83464246
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2008,11143,56.83464246
 Africa,Western Africa,Gambia,WPB-ICPR,2008,,
 Africa,Western Africa,Ghana,WPB-ICPR,2008,14128,59.95586488
 Africa,Western Africa,Liberia,WPB-ICPR,2008,,
@@ -2563,15 +2563,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2009,,
 Africa,Eastern Africa,Malawi,WPB-ICPR,2009,,
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2009,216,106.9306931
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2009,,
-Africa,Eastern Africa,Réunion,WPB-ICPR,2009,,
+Africa,Eastern Africa,Reunion,WPB-ICPR,2009,,
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2009,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2009,40111,93.12114036
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2009,40111,93.12114036
 Africa,Eastern Africa,Zambia,WPB-ICPR,2009,15544,117.6239122
 Africa,Middle Africa,Angola,WPB-ICPR,2009,16183,71.87971929
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2009,2145,49.44674965
 Africa,Middle Africa,Chad,WPB-ICPR,2009,,
 Africa,Middle Africa,Congo,WPB-ICPR,2009,2410,58.14234017
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2009,,
+Africa,Middle Africa,Congo,WPB-ICPR,2009,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2009,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2009,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2009,240,136.3636364
@@ -2580,7 +2580,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2009,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2009,19144,56.66587734
 Africa,Southern Africa,Namibia,WPB-ICPR,2009,,
 Africa,Southern Africa,South Africa,WPB-ICPR,2009,,
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2009,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2009,,
 Africa,Western Africa,Gambia,WPB-ICPR,2009,780,44.82758621
 Africa,Western Africa,Ghana,WPB-ICPR,2009,,
 Africa,Western Africa,Liberia,WPB-ICPR,2009,1420,37.82631859
@@ -2592,15 +2592,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2010,104467,119.2001369
 Africa,Eastern Africa,Malawi,WPB-ICPR,2010,11672,80.27510316
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2010,,
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2010,55000,547.863333
-Africa,Eastern Africa,Réunion,WPB-ICPR,2010,,
+Africa,Eastern Africa,Reunion,WPB-ICPR,2010,,
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2010,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2010,,
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2010,,
 Africa,Eastern Africa,Zambia,WPB-ICPR,2010,16666,122.4900779
 Africa,Middle Africa,Angola,WPB-ICPR,2010,,
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2010,,
 Africa,Middle Africa,Chad,WPB-ICPR,2010,4775,39.95147256
 Africa,Middle Africa,Congo,WPB-ICPR,2010,,
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2010,22000,34.07471656
+Africa,Middle Africa,Congo,WPB-ICPR,2010,22000,34.07471656
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2010,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2010,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2010,305,169.4444444
@@ -2609,7 +2609,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2010,13242,213.6495644
 Africa,Northern Africa,Sudan,WPB-ICPR,2010,,
 Africa,Southern Africa,Namibia,WPB-ICPR,2010,4251,200.6134969
 Africa,Southern Africa,South Africa,WPB-ICPR,2010,163312,318.8628776
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2010,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2010,,
 Africa,Western Africa,Gambia,WPB-ICPR,2010,,
 Africa,Western Africa,Ghana,WPB-ICPR,2010,13507,54.50766747
 Africa,Western Africa,Liberia,WPB-ICPR,2010,,
@@ -2621,15 +2621,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2011,,
 Africa,Eastern Africa,Malawi,WPB-ICPR,2011,,
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2011,211,98.13953488
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2011,,
-Africa,Eastern Africa,Réunion,WPB-ICPR,2011,1078,128.7933094
+Africa,Eastern Africa,Reunion,WPB-ICPR,2011,1078,128.7933094
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2011,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2011,38353,83.97118711
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2011,38353,83.97118711
 Africa,Eastern Africa,Zambia,WPB-ICPR,2011,,
 Africa,Middle Africa,Angola,WPB-ICPR,2011,19898,82.1518517
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2011,845,19.1219733
 Africa,Middle Africa,Chad,WPB-ICPR,2011,4831,39.0825985
 Africa,Middle Africa,Congo,WPB-ICPR,2011,1400,31.85437998
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2011,,
+Africa,Middle Africa,Congo,WPB-ICPR,2011,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2011,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2011,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2011,,
@@ -2638,7 +2638,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2011,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2011,20000,56.57708628
 Africa,Southern Africa,Namibia,WPB-ICPR,2011,,
 Africa,Southern Africa,South Africa,WPB-ICPR,2011,159265,306.2552881
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2011,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2011,,
 Africa,Western Africa,Gambia,WPB-ICPR,2011,1000,54.11255411
 Africa,Western Africa,Ghana,WPB-ICPR,2011,,
 Africa,Western Africa,Liberia,WPB-ICPR,2011,1601,39.85561364
@@ -2650,15 +2650,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2012,111050,119.7601562
 Africa,Eastern Africa,Malawi,WPB-ICPR,2012,12236,79.47518836
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2012,,
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2012,55618,527.1848341
-Africa,Eastern Africa,Réunion,WPB-ICPR,2012,,
+Africa,Eastern Africa,Reunion,WPB-ICPR,2012,,
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2012,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2012,33338,70.85201794
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2012,33338,70.85201794
 Africa,Eastern Africa,Zambia,WPB-ICPR,2012,17000,117.5250605
 Africa,Middle Africa,Angola,WPB-ICPR,2012,,
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2012,,
 Africa,Middle Africa,Chad,WPB-ICPR,2012,,
 Africa,Middle Africa,Congo,WPB-ICPR,2012,,
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2012,,
+Africa,Middle Africa,Congo,WPB-ICPR,2012,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2012,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2012,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2012,217,115.4255319
@@ -2667,7 +2667,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2012,3186,50.68405982
 Africa,Northern Africa,Sudan,WPB-ICPR,2012,,
 Africa,Southern Africa,Namibia,WPB-ICPR,2012,,
 Africa,Southern Africa,South Africa,WPB-ICPR,2012,158165,299.3678194
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2012,7086,32.88624867
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2012,7086,32.88624867
 Africa,Western Africa,Gambia,WPB-ICPR,2012,,
 Africa,Western Africa,Ghana,WPB-ICPR,2012,13487,51.88105862
 Africa,Western Africa,Liberia,WPB-ICPR,2012,,
@@ -2679,15 +2679,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2013,,
 Africa,Eastern Africa,Malawi,WPB-ICPR,2013,,
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2013,188,82.81938326
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2013,,
-Africa,Eastern Africa,Réunion,WPB-ICPR,2013,1128,132.5499412
+Africa,Eastern Africa,Reunion,WPB-ICPR,2013,1128,132.5499412
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2013,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2013,36552,75.3913743
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2013,36552,75.3913743
 Africa,Eastern Africa,Zambia,WPB-ICPR,2013,17021,114.0282709
 Africa,Middle Africa,Angola,WPB-ICPR,2013,21634,83.15651907
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2013,,
 Africa,Middle Africa,Chad,WPB-ICPR,2013,,
 Africa,Middle Africa,Congo,WPB-ICPR,2013,1500,32.44646334
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2013,,
+Africa,Middle Africa,Congo,WPB-ICPR,2013,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2013,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2013,3500,192.6252064
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2013,,
@@ -2696,7 +2696,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2013,5328,84.30379747
 Africa,Northern Africa,Sudan,WPB-ICPR,2013,19101,51.52267149
 Africa,Southern Africa,Namibia,WPB-ICPR,2013,7525,336.8397493
 Africa,Southern Africa,South Africa,WPB-ICPR,2013,156370,291.2623168
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2013,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2013,,
 Africa,Western Africa,Gambia,WPB-ICPR,2013,1000,50.91649695
 Africa,Western Africa,Ghana,WPB-ICPR,2013,14021,52.69467829
 Africa,Western Africa,Liberia,WPB-ICPR,2013,1827,43.00847458
@@ -2708,15 +2708,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2014,113727,115.9367545
 Africa,Eastern Africa,Malawi,WPB-ICPR,2014,12156,74.62246777
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2014,,
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2014,53600,483.579935
-Africa,Eastern Africa,Réunion,WPB-ICPR,2014,,
+Africa,Eastern Africa,Reunion,WPB-ICPR,2014,,
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2014,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2014,34196,68.4453874
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2014,34196,68.4453874
 Africa,Eastern Africa,Zambia,WPB-ICPR,2014,17160,111.4285714
 Africa,Middle Africa,Angola,WPB-ICPR,2014,21319,79.12924059
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2014,,
 Africa,Middle Africa,Chad,WPB-ICPR,2014,,
 Africa,Middle Africa,Congo,WPB-ICPR,2014,1240,26.17690521
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2014,,
+Africa,Middle Africa,Congo,WPB-ICPR,2014,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2014,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2014,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2014,201,102.5510204
@@ -2725,7 +2725,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2014,6187,97.24929268
 Africa,Northern Africa,Sudan,WPB-ICPR,2014,19101,50.29490758
 Africa,Southern Africa,Namibia,WPB-ICPR,2014,,
 Africa,Southern Africa,South Africa,WPB-ICPR,2014,154648,283.5288941
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2014,10850,47.90709997
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2014,10850,47.90709997
 Africa,Western Africa,Gambia,WPB-ICPR,2014,1121,55.38537549
 Africa,Western Africa,Ghana,WPB-ICPR,2014,14599,53.62547752
 Africa,Western Africa,Liberia,WPB-ICPR,2014,1930,44.26605505
@@ -2737,15 +2737,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2015,,
 Africa,Eastern Africa,Malawi,WPB-ICPR,2015,12129,72.43356226
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2015,177,73.75
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2015,54279,477.4298531
-Africa,Eastern Africa,Réunion,WPB-ICPR,2015,1046,121.2050985
+Africa,Eastern Africa,Reunion,WPB-ICPR,2015,1046,121.2050985
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2015,6504,60.69428891
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2015,34404,66.82594254
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2015,34404,66.82594254
 Africa,Eastern Africa,Zambia,WPB-ICPR,2015,18560,116.8839348
 Africa,Middle Africa,Angola,WPB-ICPR,2015,23674,84.90173576
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2015,764,17.0042288
 Africa,Middle Africa,Chad,WPB-ICPR,2015,8000,56.69335979
 Africa,Middle Africa,Congo,WPB-ICPR,2015,,
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2015,20550,26.95258706
+Africa,Middle Africa,Congo,WPB-ICPR,2015,20550,26.95258706
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2015,500,42.77159966
 Africa,Middle Africa,Gabon,WPB-ICPR,2015,3373,173.1519507
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2015,178,89.44723618
@@ -2754,7 +2754,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2015,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2015,,
 Africa,Southern Africa,Namibia,WPB-ICPR,2015,7235,312.5269978
 Africa,Southern Africa,South Africa,WPB-ICPR,2015,159771,288.468205
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2015,12147,52.29914751
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2015,12147,52.29914751
 Africa,Western Africa,Gambia,WPB-ICPR,2015,,
 Africa,Western Africa,Ghana,WPB-ICPR,2015,14337,51.4812022
 Africa,Western Africa,Liberia,WPB-ICPR,2015,2104,47.04830054
@@ -2766,15 +2766,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2016,,
 Africa,Eastern Africa,Malawi,WPB-ICPR,2016,14018,81.47631503
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2016,,
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2016,,
-Africa,Eastern Africa,Réunion,WPB-ICPR,2016,,
+Africa,Eastern Africa,Reunion,WPB-ICPR,2016,,
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2016,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2016,,
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2016,,
 Africa,Eastern Africa,Zambia,WPB-ICPR,2016,19000,116.1156267
 Africa,Middle Africa,Angola,WPB-ICPR,2016,22907,79.42237016
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2016,,
 Africa,Middle Africa,Chad,WPB-ICPR,2016,,
 Africa,Middle Africa,Congo,WPB-ICPR,2016,,
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2016,,
+Africa,Middle Africa,Congo,WPB-ICPR,2016,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2016,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2016,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2016,178,87.68472906
@@ -2783,7 +2783,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2016,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2016,,
 Africa,Southern Africa,Namibia,WPB-ICPR,2016,7400,313.8252757
 Africa,Southern Africa,South Africa,WPB-ICPR,2016,,
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2016,11192,46.97980943
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2016,11192,46.97980943
 Africa,Western Africa,Gambia,WPB-ICPR,2016,,
 Africa,Western Africa,Ghana,WPB-ICPR,2016,14368,50.44589565
 Africa,Western Africa,Liberia,WPB-ICPR,2016,,
@@ -2795,15 +2795,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2017,,
 Africa,Eastern Africa,Malawi,WPB-ICPR,2017,14795,83.729485
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2017,293,115.8102767
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2017,61000,509.1394708
-Africa,Eastern Africa,Réunion,WPB-ICPR,2017,1060,121.0045662
+Africa,Eastern Africa,Reunion,WPB-ICPR,2017,1060,121.0045662
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2017,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2017,,
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2017,,
 Africa,Eastern Africa,Zambia,WPB-ICPR,2017,25000,148.33274
 Africa,Middle Africa,Angola,WPB-ICPR,2017,,
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2017,,
 Africa,Middle Africa,Chad,WPB-ICPR,2017,,
 Africa,Middle Africa,Congo,WPB-ICPR,2017,,
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2017,,
+Africa,Middle Africa,Congo,WPB-ICPR,2017,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2017,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2017,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2017,251,121.2560386
@@ -2812,7 +2812,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2017,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2017,21000,51.45419352
 Africa,Southern Africa,Namibia,WPB-ICPR,2017,,
 Africa,Southern Africa,South Africa,WPB-ICPR,2017,158111,277.3390633
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2017,16127,65.99418914
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2017,16127,65.99418914
 Africa,Western Africa,Gambia,WPB-ICPR,2017,,
 Africa,Western Africa,Ghana,WPB-ICPR,2017,14846,50.98039216
 Africa,Western Africa,Liberia,WPB-ICPR,2017,2211,47.0225436
@@ -2824,15 +2824,15 @@ Africa,Eastern Africa,Ethiopia,WPB-ICPR,2018,,
 Africa,Eastern Africa,Malawi,WPB-ICPR,2018,13929,76.77341123
 Africa,Eastern Africa,Mayotte,WPB-ICPR,2018,,
 Africa,Eastern Africa,Rwanda,WPB-ICPR,2018,,
-Africa,Eastern Africa,Réunion,WPB-ICPR,2018,,
+Africa,Eastern Africa,Reunion,WPB-ICPR,2018,,
 Africa,Eastern Africa,South Sudan,WPB-ICPR,2018,,
-Africa,Eastern Africa,United Republic of Tanzania,WPB-ICPR,2018,,
+Africa,Eastern Africa,Tanzania,WPB-ICPR,2018,,
 Africa,Eastern Africa,Zambia,WPB-ICPR,2018,,
 Africa,Middle Africa,Angola,WPB-ICPR,2018,,
 Africa,Middle Africa,Central African Republic,WPB-ICPR,2018,,
 Africa,Middle Africa,Chad,WPB-ICPR,2018,8700,56.20881251
 Africa,Middle Africa,Congo,WPB-ICPR,2018,,
-Africa,Middle Africa,Democratic Republic of the Congo,WPB-ICPR,2018,,
+Africa,Middle Africa,Congo,WPB-ICPR,2018,,
 Africa,Middle Africa,Equatorial Guinea,WPB-ICPR,2018,,
 Africa,Middle Africa,Gabon,WPB-ICPR,2018,,
 Africa,Middle Africa,Sao Tome and Principe,WPB-ICPR,2018,253,119.9052133
@@ -2841,7 +2841,7 @@ Africa,Northern Africa,Libya,WPB-ICPR,2018,,
 Africa,Northern Africa,Sudan,WPB-ICPR,2018,,
 Africa,Southern Africa,Namibia,WPB-ICPR,2018,,
 Africa,Southern Africa,South Africa,WPB-ICPR,2018,164129,283.9946014
-Africa,Western Africa,Côte d'Ivoire,WPB-ICPR,2018,,
+Africa,Western Africa,Cote d'Ivoire,WPB-ICPR,2018,,
 Africa,Western Africa,Gambia,WPB-ICPR,2018,,
 Africa,Western Africa,Ghana,WPB-ICPR,2018,14467,48.60079954
 Africa,Western Africa,Liberia,WPB-ICPR,2018,2426,50.34239469
@@ -2850,204 +2850,204 @@ Africa,Western Africa,Mauritania,WPB-ICPR,2018,,
 Africa,Western Africa,Niger,WPB-ICPR,2018,9570,42.64135811
 Americas,Caribbean,Martinique,WPB-ICPR,2007,763,191.7085427
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2007,,
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2007,94,284.8484848
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2007,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2007,94,284.8484848
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2007,,
 Americas,South America,Suriname,WPB-ICPR,2007,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2007,,
+Americas,South America,Venezuela,WPB-ICPR,2007,,
 Americas,Caribbean,Anguilla,WPB-ICPR,2008,44,338.4615385
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2008,229,269.4117647
 Americas,Caribbean,Aruba,WPB-ICPR,2008,,
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2008,117,450
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2008,203,375.9259259
 Americas,Caribbean,Cuba,WPB-ICPR,2008,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2008,,
+Americas,Caribbean,Curacao,WPB-ICPR,2008,,
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2008,,
 Americas,Caribbean,Haiti,WPB-ICPR,2008,8204,85.04198196
 Americas,Caribbean,Martinique,WPB-ICPR,2008,,
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2008,518,304.7058824
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2008,,
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2008,612,571.9626168
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2008,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2008,612,571.9626168
 Americas,Northern America,Greenland,WPB-ICPR,2008,132,231.5789474
 Americas,South America,French Guiana,WPB-ICPR,2008,658,296.3963964
 Americas,South America,Suriname,WPB-ICPR,2008,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2008,24069,87.09292228
+Americas,South America,Venezuela,WPB-ICPR,2008,24069,87.09292228
 Americas,Caribbean,Anguilla,WPB-ICPR,2009,,
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2009,,
 Americas,Caribbean,Aruba,WPB-ICPR,2009,,
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2009,,
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2009,,
 Americas,Caribbean,Cuba,WPB-ICPR,2009,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2009,,
+Americas,Caribbean,Curacao,WPB-ICPR,2009,,
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2009,,
 Americas,Caribbean,Haiti,WPB-ICPR,2009,,
 Americas,Caribbean,Martinique,WPB-ICPR,2009,920,231.7380353
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2009,,
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2009,,
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2009,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2009,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2009,,
 Americas,Northern America,Greenland,WPB-ICPR,2009,,
 Americas,South America,French Guiana,WPB-ICPR,2009,,
 Americas,South America,Suriname,WPB-ICPR,2009,915,174.9521989
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2009,,
+Americas,South America,Venezuela,WPB-ICPR,2009,,
 Americas,Caribbean,Anguilla,WPB-ICPR,2010,58,446.1538462
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2010,295,335.2272727
 Americas,Caribbean,Aruba,WPB-ICPR,2010,,
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2010,117,417.8571429
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2010,212,371.9298246
 Americas,Caribbean,Cuba,WPB-ICPR,2010,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2010,541,363.0872483
+Americas,Caribbean,Curacao,WPB-ICPR,2010,541,363.0872483
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2010,,
 Americas,Caribbean,Haiti,WPB-ICPR,2010,5331,53.5832747
 Americas,Caribbean,Martinique,WPB-ICPR,2010,,
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2010,526,302.2988506
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2010,,
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2010,577,544.3396226
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2010,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2010,577,544.3396226
 Americas,Northern America,Greenland,WPB-ICPR,2010,171,300
 Americas,South America,French Guiana,WPB-ICPR,2010,715,306.8669528
 Americas,South America,Suriname,WPB-ICPR,2010,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2010,40825,143.54782
+Americas,South America,Venezuela,WPB-ICPR,2010,40825,143.54782
 Americas,Caribbean,Anguilla,WPB-ICPR,2011,,
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2011,,
 Americas,Caribbean,Aruba,WPB-ICPR,2011,246,241.1764706
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2011,,
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2011,,
 Americas,Caribbean,Cuba,WPB-ICPR,2011,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2011,,
+Americas,Caribbean,Curacao,WPB-ICPR,2011,,
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2011,784,193.1034483
 Americas,Caribbean,Haiti,WPB-ICPR,2011,,
 Americas,Caribbean,Martinique,WPB-ICPR,2011,885,225.7653061
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2011,,
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2011,,
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2011,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2011,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2011,,
 Americas,Northern America,Greenland,WPB-ICPR,2011,,
 Americas,South America,French Guiana,WPB-ICPR,2011,,
 Americas,South America,Suriname,WPB-ICPR,2011,1010,188.7850467
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2011,,
+Americas,South America,Venezuela,WPB-ICPR,2011,,
 Americas,Caribbean,Anguilla,WPB-ICPR,2012,76,542.8571429
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2012,361,401.1111111
 Americas,Caribbean,Aruba,WPB-ICPR,2012,,
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2012,138,475.862069
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2012,185,313.559322
 Americas,Caribbean,Cuba,WPB-ICPR,2012,57337,509.3452963
-Americas,Caribbean,Curaçao,WPB-ICPR,2012,440,283.8709677
+Americas,Caribbean,Curacao,WPB-ICPR,2012,440,283.8709677
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2012,,
 Americas,Caribbean,Haiti,WPB-ICPR,2012,8722,85.08438201
 Americas,Caribbean,Martinique,WPB-ICPR,2012,,
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2012,568,320.9039548
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2012,180,500
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2012,577,544.3396226
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2012,180,500
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2012,577,544.3396226
 Americas,Northern America,Greenland,WPB-ICPR,2012,170,303.5714286
 Americas,South America,French Guiana,WPB-ICPR,2012,654,268.0327869
 Americas,South America,Suriname,WPB-ICPR,2012,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2012,45224,154.0274514
+Americas,South America,Venezuela,WPB-ICPR,2012,45224,154.0274514
 Americas,Caribbean,Anguilla,WPB-ICPR,2013,,
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2013,371,403.2608696
 Americas,Caribbean,Aruba,WPB-ICPR,2013,240,233.0097087
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2013,,
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2013,,
 Americas,Caribbean,Cuba,WPB-ICPR,2013,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2013,,
+Americas,Caribbean,Curacao,WPB-ICPR,2013,,
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2013,871,216.1290323
 Americas,Caribbean,Haiti,WPB-ICPR,2013,9936,95.52927603
 Americas,Caribbean,Martinique,WPB-ICPR,2013,918,238.4415584
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2013,,
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2013,,
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2013,577,549.5238095
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2013,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2013,577,549.5238095
 Americas,Northern America,Greenland,WPB-ICPR,2013,,
 Americas,South America,French Guiana,WPB-ICPR,2013,,
 Americas,South America,Suriname,WPB-ICPR,2013,1050,191.9561243
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2013,,
+Americas,South America,Venezuela,WPB-ICPR,2013,,
 Americas,Caribbean,Anguilla,WPB-ICPR,2014,60,428.5714286
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2014,331,355.9139785
 Americas,Caribbean,Aruba,WPB-ICPR,2014,170,163.4615385
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2014,134,462.0689655
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2014,186,304.9180328
 Americas,Caribbean,Cuba,WPB-ICPR,2014,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2014,348,220.2531646
+Americas,Caribbean,Curacao,WPB-ICPR,2014,348,220.2531646
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2014,,
 Americas,Caribbean,Haiti,WPB-ICPR,2014,10461,99.16579771
 Americas,Caribbean,Martinique,WPB-ICPR,2014,,
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2014,634,356.1797753
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2014,161,412.8205128
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2014,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2014,161,412.8205128
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2014,,
 Americas,Northern America,Greenland,WPB-ICPR,2014,131,233.9285714
 Americas,South America,French Guiana,WPB-ICPR,2014,680,266.6666667
 Americas,South America,Suriname,WPB-ICPR,2014,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2014,51256,170.6087941
+Americas,South America,Venezuela,WPB-ICPR,2014,51256,170.6087941
 Americas,Caribbean,Anguilla,WPB-ICPR,2015,,
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2015,,
 Americas,Caribbean,Aruba,WPB-ICPR,2015,,
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2015,,
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2015,189.19,305.1451613
 Americas,Caribbean,Cuba,WPB-ICPR,2015,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2015,,
+Americas,Caribbean,Curacao,WPB-ICPR,2015,,
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2015,907,226.75
 Americas,Caribbean,Haiti,WPB-ICPR,2015,11046,103.2722513
 Americas,Caribbean,Martinique,WPB-ICPR,2015,940,248.6772487
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2015,,
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2015,,
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2015,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2015,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2015,,
 Americas,Northern America,Greenland,WPB-ICPR,2015,126,225
 Americas,South America,French Guiana,WPB-ICPR,2015,,
 Americas,South America,Suriname,WPB-ICPR,2015,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2015,49664,165.0954059
+Americas,South America,Venezuela,WPB-ICPR,2015,49664,165.0954059
 Americas,Caribbean,Anguilla,WPB-ICPR,2016,46,328.5714286
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2016,371,390.5263158
 Americas,Caribbean,Aruba,WPB-ICPR,2016,,
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2016,,
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2016,218,346.031746
 Americas,Caribbean,Cuba,WPB-ICPR,2016,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2016,377,234.1614907
+Americas,Caribbean,Curacao,WPB-ICPR,2016,377,234.1614907
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2016,,
 Americas,Caribbean,Haiti,WPB-ICPR,2016,10538,97.21402214
 Americas,Caribbean,Martinique,WPB-ICPR,2016,,
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2016,559,310.5555556
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2016,,
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2016,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2016,,
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2016,,
 Americas,Northern America,Greenland,WPB-ICPR,2016,126.15,225.2678571
 Americas,South America,French Guiana,WPB-ICPR,2016,879,327.9850746
 Americas,South America,Suriname,WPB-ICPR,2016,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2016,54738,183.3707413
+Americas,South America,Venezuela,WPB-ICPR,2016,54738,183.3707413
 Americas,Caribbean,Anguilla,WPB-ICPR,2017,55,366.6666667
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2017,305,321.0526316
 Americas,Caribbean,Aruba,WPB-ICPR,2017,,
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2017,,
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2017,253,401.5873016
 Americas,Caribbean,Cuba,WPB-ICPR,2017,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2017,,
+Americas,Caribbean,Curacao,WPB-ICPR,2017,,
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2017,956,239
 Americas,Caribbean,Haiti,WPB-ICPR,2017,8882,80.87780004
 Americas,Caribbean,Martinique,WPB-ICPR,2017,870,231.3829787
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2017,527,291.160221
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2017,120,292.6829268
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2017,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2017,120,292.6829268
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2017,,
 Americas,Northern America,Greenland,WPB-ICPR,2017,139,248.2142857
 Americas,South America,French Guiana,WPB-ICPR,2017,726,264
 Americas,South America,Suriname,WPB-ICPR,2017,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2017,57096,194.1908714
+Americas,South America,Venezuela,WPB-ICPR,2017,57096,194.1908714
 Americas,Caribbean,Anguilla,WPB-ICPR,2018,55,366.6666667
 Americas,Caribbean,Antigua and Barbuda,WPB-ICPR,2018,305,317.7083333
 Americas,Caribbean,Aruba,WPB-ICPR,2018,,
 Americas,Caribbean,British Virgin Islands,WPB-ICPR,2018,,
 Americas,Caribbean,Cayman Islands,WPB-ICPR,2018,253,395.3125
 Americas,Caribbean,Cuba,WPB-ICPR,2018,,
-Americas,Caribbean,Curaçao,WPB-ICPR,2018,,
+Americas,Caribbean,Curacao,WPB-ICPR,2018,,
 Americas,Caribbean,Guadeloupe,WPB-ICPR,2018,,
 Americas,Caribbean,Haiti,WPB-ICPR,2018,8882,79.85255776
 Americas,Caribbean,Martinique,WPB-ICPR,2018,,
 Americas,Caribbean,Saint Lucia,WPB-ICPR,2018,,
-Americas,Caribbean,Sint Maarten (Dutch part),WPB-ICPR,2018,62,147.6190476
-Americas,Caribbean,United States Virgin Islands,WPB-ICPR,2018,,
+Americas,Caribbean,Sint Maarten,WPB-ICPR,2018,62,147.6190476
+Americas,Caribbean,Virgin Islands (USA),WPB-ICPR,2018,,
 Americas,Northern America,Greenland,WPB-ICPR,2018,,
 Americas,South America,French Guiana,WPB-ICPR,2018,,
 Americas,South America,Suriname,WPB-ICPR,2018,,
-Americas,South America,Venezuela (Bolivarian Republic of),WPB-ICPR,2018,,
+Americas,South America,Venezuela,WPB-ICPR,2018,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2007,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2007,34000,124.9770263
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2007,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2007,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2007,50305,188.2672156
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2007,65063,131.1198888
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2007,,
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2007,92153,107.882229
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2007,92153,107.882229
 Asia,Southern Asia,Maldives,WPB-ICPR,2007,,
 Asia,Southern Asia,Nepal,WPB-ICPR,2007,,
 Asia,Southern Asia,Pakistan,WPB-ICPR,2007,90000,53.63272311
@@ -3055,15 +3055,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2007,,
 Asia,Western Asia,Oman,WPB-ICPR,2007,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2008,7350,101.9417476
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2008,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2008,63203,274.5688344
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2008,63203,274.5688344
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2008,11688,84.1832325
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2008,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2008,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2008,39440,144.8083419
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2008,,
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2008,179,16.96682465
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2008,,
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2008,,
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2008,12500,45.09054181
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2008,,
+Asia,Southern Asia,Iran,WPB-ICPR,2008,,
 Asia,Southern Asia,Maldives,WPB-ICPR,2008,993,289.5043732
 Asia,Southern Asia,Nepal,WPB-ICPR,2008,8401,31.50335621
 Asia,Southern Asia,Pakistan,WPB-ICPR,2008,,
@@ -3071,15 +3071,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2008,,
 Asia,Western Asia,Oman,WPB-ICPR,2008,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2009,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2009,42000,149.6525922
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2009,,
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2009,,
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2009,,
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2009,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2009,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2009,,
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2009,60053,119.5084577
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2009,223,20.76350093
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2009,107668,123.6255913
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2009,107668,123.6255913
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2009,,
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2009,168516,231.0812479
+Asia,Southern Asia,Iran,WPB-ICPR,2009,168516,231.0812479
 Asia,Southern Asia,Maldives,WPB-ICPR,2009,,
 Asia,Southern Asia,Nepal,WPB-ICPR,2009,,
 Asia,Southern Asia,Pakistan,WPB-ICPR,2009,81409,46.38002347
@@ -3087,15 +3087,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2009,4045,143.3888692
 Asia,Western Asia,Oman,WPB-ICPR,2009,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2010,9317,123.7810549
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2010,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2010,65311,281.6586165
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2010,65311,281.6586165
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2010,14043,98.12045836
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2010,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2010,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2010,38387,136.0855077
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2010,,
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2010,,
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2010,,
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2010,,
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2010,18283,62.64304804
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2010,,
+Asia,Southern Asia,Iran,WPB-ICPR,2010,,
 Asia,Southern Asia,Maldives,WPB-ICPR,2010,830,226.7759563
 Asia,Southern Asia,Nepal,WPB-ICPR,2010,10739,39.75493281
 Asia,Southern Asia,Pakistan,WPB-ICPR,2010,75586,42.12679393
@@ -3103,15 +3103,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2010,4179,139.6724599
 Asia,Western Asia,Oman,WPB-ICPR,2010,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2011,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2011,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2011,64420,276.8490266
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2011,64420,276.8490266
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2011,,
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2011,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2011,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2011,,
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2011,66000,129.4346061
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2011,260,23.36028751
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2011,113018,127.1708431
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2011,113018,127.1708431
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2011,,
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2011,250000,334.963489
+Asia,Southern Asia,Iran,WPB-ICPR,2011,250000,334.963489
 Asia,Southern Asia,Maldives,WPB-ICPR,2011,,
 Asia,Southern Asia,Nepal,WPB-ICPR,2011,,
 Asia,Southern Asia,Pakistan,WPB-ICPR,2011,78100,42.59845097
@@ -3119,15 +3119,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2011,4100,129.4191919
 Asia,Western Asia,Oman,WPB-ICPR,2011,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2012,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2012,42000,142.6194438
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2012,66106,283.1455862
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2012,66106,283.1455862
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2012,15397,104.1745602
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2012,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2012,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2012,36608,125.9391771
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2012,,
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2012,295,26.03706973
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2012,130180,144.9633638
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2012,130180,144.9633638
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2012,24613,78.98655371
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2012,,
+Asia,Southern Asia,Iran,WPB-ICPR,2012,,
 Asia,Southern Asia,Maldives,WPB-ICPR,2012,994,250.3778338
 Asia,Southern Asia,Nepal,WPB-ICPR,2012,14936,55.34106488
 Asia,Southern Asia,Pakistan,WPB-ICPR,2012,74944,40.01708672
@@ -3135,15 +3135,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2012,,
 Asia,Western Asia,Oman,WPB-ICPR,2012,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2013,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2013,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2013,65288,278.7464777
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2013,65288,278.7464777
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2013,,
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2013,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2013,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2013,39144,132.8311107
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2013,60000,115.7139551
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2013,,
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2013,,
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2013,,
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2013,,
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2013,226220,295.7820141
+Asia,Southern Asia,Iran,WPB-ICPR,2013,226220,295.7820141
 Asia,Southern Asia,Maldives,WPB-ICPR,2013,,
 Asia,Southern Asia,Nepal,WPB-ICPR,2013,,
 Asia,Southern Asia,Pakistan,WPB-ICPR,2013,,
@@ -3151,15 +3151,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2013,2900,82.2461713
 Asia,Western Asia,Oman,WPB-ICPR,2013,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2014,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2014,43900,144.2844935
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2014,63452,270.1004597
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2014,63452,270.1004597
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2014,15182,99.39116203
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2014,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2014,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2014,47986,160.6656176
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2014,,
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2014,,
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2014,142636,155.5226029
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2014,142636,155.5226029
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2014,26519,79.46720206
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2014,225624,291.2555186
+Asia,Southern Asia,Iran,WPB-ICPR,2014,225624,291.2555186
 Asia,Southern Asia,Maldives,WPB-ICPR,2014,1200,275.862069
 Asia,Southern Asia,Nepal,WPB-ICPR,2014,16813,62.48792091
 Asia,Southern Asia,Pakistan,WPB-ICPR,2014,79700,40.80796703
@@ -3167,15 +3167,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2014,3200,86.69737199
 Asia,Western Asia,Oman,WPB-ICPR,2014,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2015,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2015,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2015,63322,268.8033281
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2015,63322,268.8033281
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2015,,
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2015,8201,121.6585076
+Asia,South-eastern Asia,Laos,WPB-ICPR,2015,8201,121.6585076
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2015,51109,168.8381619
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2015,,
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2015,581,48.57859532
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2015,136245,147.0105852
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2015,136245,147.0105852
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2015,,
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2015,,
+Asia,Southern Asia,Iran,WPB-ICPR,2015,,
 Asia,Southern Asia,Maldives,WPB-ICPR,2015,1513,332.5274725
 Asia,Southern Asia,Nepal,WPB-ICPR,2015,,
 Asia,Southern Asia,Pakistan,WPB-ICPR,2015,80169,40.19967206
@@ -3183,15 +3183,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2015,4000,104.2752868
 Asia,Western Asia,Oman,WPB-ICPR,2015,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2016,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2016,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2016,62398,264.1967991
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2016,62398,264.1967991
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2016,21989,139.4710136
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2016,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2016,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2016,51602,168.1668568
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2016,79668,150.1894618
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2016,,
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2016,130679,139.5546775
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2016,130679,139.5546775
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2016,,
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2016,,
+Asia,Southern Asia,Iran,WPB-ICPR,2016,,
 Asia,Southern Asia,Maldives,WPB-ICPR,2016,1880,394.9579832
 Asia,Southern Asia,Nepal,WPB-ICPR,2016,17966,65.89883725
 Asia,Southern Asia,Pakistan,WPB-ICPR,2016,84315,41.4057781
@@ -3199,15 +3199,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2016,5400,136.4670205
 Asia,Western Asia,Oman,WPB-ICPR,2016,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2017,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2017,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2017,62634,264.5575502
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2017,62634,264.5575502
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2017,31008,193.6910488
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2017,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2017,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2017,55413,178.1482077
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2017,79668,149.2385216
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2017,659,53.01689461
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2017,130002,137.4213803
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2017,130002,137.4213803
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2017,30000,82.65373595
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2017,230000,285.0980489
+Asia,Southern Asia,Iran,WPB-ICPR,2017,230000,285.0980489
 Asia,Southern Asia,Maldives,WPB-ICPR,2017,1852,373.3870968
 Asia,Southern Asia,Nepal,WPB-ICPR,2017,18881,68.3277241
 Asia,Southern Asia,Pakistan,WPB-ICPR,2017,83718,40.26723616
@@ -3215,15 +3215,15 @@ Asia,Western Asia,Kuwait,WPB-ICPR,2017,6000,147.9289941
 Asia,Western Asia,Oman,WPB-ICPR,2017,,
 Asia,Central Asia,Tajikistan,WPB-ICPR,2018,,
 Asia,Central Asia,Uzbekistan,WPB-ICPR,2018,,
-Asia,Eastern Asia,"China, Taiwan Province of China",WPB-ICPR,2018,62634,263.988873
+Asia,Eastern Asia,Taiwan,WPB-ICPR,2018,62634,263.988873
 Asia,South-eastern Asia,Cambodia,WPB-ICPR,2018,31008,190.8184615
-Asia,South-eastern Asia,Lao People's Democratic Republic,WPB-ICPR,2018,,
+Asia,South-eastern Asia,Laos,WPB-ICPR,2018,,
 Asia,South-eastern Asia,Malaysia,WPB-ICPR,2018,,
 Asia,South-eastern Asia,Myanmar,WPB-ICPR,2018,92000,171.2966411
 Asia,South-eastern Asia,Timor-Leste,WPB-ICPR,2018,695,54.81072555
-Asia,South-eastern Asia,Viet Nam,WPB-ICPR,2018,,
+Asia,South-eastern Asia,Vietnam,WPB-ICPR,2018,,
 Asia,Southern Asia,Afghanistan,WPB-ICPR,2018,,
-Asia,Southern Asia,Iran (Islamic Republic of),WPB-ICPR,2018,240000,293.398533
+Asia,Southern Asia,Iran,WPB-ICPR,2018,240000,293.398533
 Asia,Southern Asia,Maldives,WPB-ICPR,2018,,
 Asia,Southern Asia,Nepal,WPB-ICPR,2018,,
 Asia,Southern Asia,Pakistan,WPB-ICPR,2018,83718,39.4471983
@@ -3293,7 +3293,7 @@ Oceania,Melanesia,Solomon Islands,WPB-ICPR,2007,211,42.88617886
 Oceania,Melanesia,Vanuatu,WPB-ICPR,2007,123,56.16438356
 Oceania,Micronesia,Kiribati,WPB-ICPR,2007,88,90.72164949
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2007,,
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2007,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2007,,
 Oceania,Micronesia,Nauru,WPB-ICPR,2007,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2007,,
 Oceania,Micronesia,Palau,WPB-ICPR,2007,111,584.2105263
@@ -3308,7 +3308,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2008,,
 Oceania,Micronesia,Guam,WPB-ICPR,2008,559,351.572327
 Oceania,Micronesia,Kiribati,WPB-ICPR,2008,84,84.84848485
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2008,,
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2008,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2008,,
 Oceania,Micronesia,Nauru,WPB-ICPR,2008,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2008,124,225.4545455
 Oceania,Micronesia,Palau,WPB-ICPR,2008,,
@@ -3326,7 +3326,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2009,170,73.91304348
 Oceania,Micronesia,Guam,WPB-ICPR,2009,,
 Oceania,Micronesia,Kiribati,WPB-ICPR,2009,,
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2009,50,89.28571429
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2009,76,73.78640777
+Oceania,Micronesia,Micronesia,WPB-ICPR,2009,76,73.78640777
 Oceania,Micronesia,Nauru,WPB-ICPR,2009,37,370
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2009,,
 Oceania,Micronesia,Palau,WPB-ICPR,2009,132,733.3333333
@@ -3344,7 +3344,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2010,187,79.23728814
 Oceania,Micronesia,Guam,WPB-ICPR,2010,559,351.572327
 Oceania,Micronesia,Kiribati,WPB-ICPR,2010,90,87.37864078
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2010,,
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2010,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2010,,
 Oceania,Micronesia,Nauru,WPB-ICPR,2010,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2010,,
 Oceania,Micronesia,Palau,WPB-ICPR,2010,,
@@ -3362,7 +3362,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2011,,
 Oceania,Micronesia,Guam,WPB-ICPR,2011,,
 Oceania,Micronesia,Kiribati,WPB-ICPR,2011,,
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2011,41,71.92982456
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2011,95,92.23300971
+Oceania,Micronesia,Micronesia,WPB-ICPR,2011,95,92.23300971
 Oceania,Micronesia,Nauru,WPB-ICPR,2011,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2011,162,300
 Oceania,Micronesia,Palau,WPB-ICPR,2011,92,511.1111111
@@ -3380,7 +3380,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2012,194,77.91164659
 Oceania,Micronesia,Guam,WPB-ICPR,2012,585,365.625
 Oceania,Micronesia,Kiribati,WPB-ICPR,2012,106,100
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2012,,
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2012,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2012,,
 Oceania,Micronesia,Nauru,WPB-ICPR,2012,26,260
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2012,,
 Oceania,Micronesia,Palau,WPB-ICPR,2012,,
@@ -3398,7 +3398,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2013,,
 Oceania,Micronesia,Guam,WPB-ICPR,2013,,
 Oceania,Micronesia,Kiribati,WPB-ICPR,2013,,
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2013,36,63.15789474
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2013,107,100.9433962
+Oceania,Micronesia,Micronesia,WPB-ICPR,2013,107,100.9433962
 Oceania,Micronesia,Nauru,WPB-ICPR,2013,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2013,,
 Oceania,Micronesia,Palau,WPB-ICPR,2013,103,572.2222222
@@ -3416,7 +3416,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2014,151,57.1969697
 Oceania,Micronesia,Guam,WPB-ICPR,2014,754,468.3229814
 Oceania,Micronesia,Kiribati,WPB-ICPR,2014,120,110.0917431
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2014,35,61.40350877
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2014,132,123.364486
+Oceania,Micronesia,Micronesia,WPB-ICPR,2014,132,123.364486
 Oceania,Micronesia,Nauru,WPB-ICPR,2014,14,140
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2014,175,318.1818182
 Oceania,Micronesia,Palau,WPB-ICPR,2014,72,400
@@ -3434,7 +3434,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2015,230,84.87084871
 Oceania,Micronesia,Guam,WPB-ICPR,2015,756,466.6666667
 Oceania,Micronesia,Kiribati,WPB-ICPR,2015,146,131.5315315
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2015,,
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2015,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2015,,
 Oceania,Micronesia,Nauru,WPB-ICPR,2015,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2015,,
 Oceania,Micronesia,Palau,WPB-ICPR,2015,72,400
@@ -3452,7 +3452,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2016,192,69.0647482
 Oceania,Micronesia,Guam,WPB-ICPR,2016,752,461.3496933
 Oceania,Micronesia,Kiribati,WPB-ICPR,2016,129,114.159292
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2016,,
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2016,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2016,,
 Oceania,Micronesia,Nauru,WPB-ICPR,2016,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2016,,
 Oceania,Micronesia,Palau,WPB-ICPR,2016,,
@@ -3470,7 +3470,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2017,,
 Oceania,Micronesia,Guam,WPB-ICPR,2017,667,406.7073171
 Oceania,Micronesia,Kiribati,WPB-ICPR,2017,,
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2017,,
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2017,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2017,,
 Oceania,Micronesia,Nauru,WPB-ICPR,2017,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2017,270,473.6842105
 Oceania,Micronesia,Palau,WPB-ICPR,2017,87,483.3333333
@@ -3488,7 +3488,7 @@ Oceania,Melanesia,Vanuatu,WPB-ICPR,2018,,
 Oceania,Micronesia,Guam,WPB-ICPR,2018,,
 Oceania,Micronesia,Kiribati,WPB-ICPR,2018,,
 Oceania,Micronesia,Marshall Islands,WPB-ICPR,2018,,
-Oceania,Micronesia,Micronesia (Federated States of),WPB-ICPR,2018,,
+Oceania,Micronesia,Micronesia,WPB-ICPR,2018,,
 Oceania,Micronesia,Nauru,WPB-ICPR,2018,,
 Oceania,Micronesia,Northern Mariana Islands,WPB-ICPR,2018,,
 Oceania,Micronesia,Palau,WPB-ICPR,2018,76,422.2222222
